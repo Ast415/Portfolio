@@ -1,0 +1,63 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Courier New';
+  font-size: large;
+}
+
+
+.mainContentAccueil{
+    display: flex;
+    flex-direction: column;
+}
+
+.ContentAccueil{
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.CententTypeText{
+    
+}
+
+.CAsection1{
+    background-image: url("../../src/img/jpg/IA-back1.jpg");
+    background-size: 100%;
+    background-position: center;
+}
+
+.ContentTypeText{
+    padding: 20px;
+    text-align: center;
+    height: auto;
+    text-align: justify;
+    color: white;
+}
+
+.CAsection2{
+    padding-top: 70px;
+    background-color: rgb(19, 19, 80);
+}
+
+.photoProfilAccueil{
+    background-image: url("../../src/img/jpg/bestPP.jpg");
+    background-size: 100%;
+    width: 175px;
+    height: 175px;
+    border-radius: 25px;
+    position: relative;
+    top: 30%;
+    box-shadow: 25px 25px 25px rgba(0, 0, 0, 0.253);
+}
+
+.contentBtsSio{
+    background-image: url("../../src/img/jpg/IA-back3-blured.jpg");
+    background-size: 150%;
+}
+
+.btsLogo{
+    width: 50%;
+}
