@@ -1,18 +1,14 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: 'Calibri';
+  font-family: 'KonnectL';
   font-size: large;
-  background-color: beige;
+  background: linear-gradient(0.62turn,#131350 50%, #5555c2);
+  background-color: #131350;
 }
 
-input, textarea{
-    width: 100%;
-    background-color: rgba(255, 255, 255, 0.548);
-    border: 0.2px black solid;
-    border-radius: 10px;
-    margin-bottom: 15px;
-    padding: 5px;
+h1{
+    font-family: 'KonnectM';
 }
 
 .shadowStyle1{
@@ -33,10 +29,8 @@ input, textarea{
     justify-content: center;
 }
 
-
-
 .pCHeader{
-    background-image: url("../../src/img/jpg/IA-back1.jpg");
+    background-image: linear-gradient(to bottom, transparent 70%, #161656),url("../../src/img/jpg/IA-back1.jpg");
     background-size: 100%;
     background-position: center;
 }
@@ -67,11 +61,54 @@ input, textarea{
     /*
     background-image: url("../../src/img/jpg/IA-back3-blured.jpg");
     background-size: 150%;*/
+    background-color: beige;
     color: black;
 }
 
 .contactContent{
-    background-color: rgb(19, 19, 80);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contactCard{
+    background: linear-gradient(0.12turn,#131350, #5555c2);
+    border-radius: 15px;
+    box-shadow: 0px 0px 30px rgb(0 0 0 / 60%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+}
+
+.cCInput{
+    display: flex;
+    flex-direction: column;
+}
+
+input, textarea, button{
+    background-color: #0a0a2b;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 11px;
+}
+
+input, textarea{
+    margin-bottom: 5px;
+}
+
+textarea {
+    min-width: max-content;
+    max-width: min-content;
+    min-height: 86px;
+    max-height: 86px;
+    margin-bottom: 10px;
+}
+
+button{
+    width: 40%;
 }
 
 .borderfC{
@@ -109,12 +146,6 @@ input, textarea{
     border-bottom: 2px #48392A solid;
 }
 
-
-
-
-
-
-
 /*
 .demiCercleBande{
     display: flex;
@@ -138,3 +169,52 @@ input, textarea{
     right: -50%
 }
 */
+
+
+@media screen and (min-width: 500px) {
+
+    input, textarea{
+        max-width: 500px;
+    }
+
+    textarea{
+        min-height: 210px;
+        min-width: 500px;
+    }
+
+    .fCWidth{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    
+
+}
+
+@media screen and (min-width: 960px) {
+    .fullProfilContent{
+        display: flex;
+        height: 100vh;
+    }
+
+    .profilContent{
+        width: 50%;
+        padding: 45px;
+    }
+
+    .pCHeader{
+        height: auto;
+    }
+
+    .profilePhoto{
+        top: 0;
+        width: 250px;
+        height: 250px;
+    }
+
+    .fCWidth{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}
+
+
