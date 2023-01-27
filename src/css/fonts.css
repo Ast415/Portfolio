@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'YDYooncheB';
+    src: url("../fonts/YDYoonche/YDYooncheB/YDYooncheB.woff2") format("woff2")
+}
+
+@font-face {
+    font-family: "YDYooncheM";
+    src: url("../fonts/YDYoonche/YDYooncheM/YDYooncheM.woff2") format("woff2")
+}
+
+@font-face {
+    font-family: 'KonnectL';
+    src: url("../fonts/Konnect/KonnectLight.otf")
+}
+
+@font-face {
+    font-family: 'KonnectM';
+    src: url("../fonts/Konnect/KonnectMedium.otf")
+}
+
+@font-face {
+    font-family: 'KonnectB';
+    src: url("../fonts/Konnect/KonnectBold.otf")
+}
+   
