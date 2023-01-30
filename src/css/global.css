@@ -9,6 +9,7 @@ body {
   font-size: large;
   background: linear-gradient(0.62turn,#131350 50%, #5555c2);
   background-color: #131350;
+  color: white;
 }
 
 h1{
@@ -20,7 +21,7 @@ h1{
     box-shadow: 25px 25px 25px rgba(0, 0, 0, 0.253);
 }
 
-.homeContent{
+.homeContent, .experiencesContent{
     display: flex;
     flex-direction: column;
 }
@@ -39,7 +40,7 @@ h1{
     background-position: center;
 }
 
-.textContent{
+.textContent, .aExpContent, .Card{
     padding: 20px;
     text-align: center;
     height: auto;
@@ -209,11 +210,55 @@ footer{
     width: 360px;
 }
 
+.experiencesContent{
+    justify-content: center;
+    align-items: center;
+
+}
+
+.projetsContent/*, .cardContent*/{
+    margin-top: 50px;
+}
+
+.aExpContent{
+    text-align: center;
+}
+
+.Card{
+    background-color: beige;
+    border-radius: 20px;
+    color: black;
+    margin-bottom: 20px;
+    max-width: 332px;
+    font-size: smaller;
+}
+
+.imgCard{
+    height: auto;
+    width: 100%;
+    border-radius: 10px;
+}
+
+h4{
+    text-align: right;
+}
+
+.cardContent, .stagesContent{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
 @media screen and (min-width: 500px) {
 
     .fCWidth{
         margin-left: 5%;
         margin-right: 5%;
+    }
+
+    .Card{
+        margin-left: 40px;
+        margin-right: 40px;
     }
 
 }
