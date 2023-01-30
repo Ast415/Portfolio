@@ -6,19 +6,18 @@
                     <h2>Projet de 1ere année</h2>
                     <div class="cardContent">
                         <div class="Card shadowStyle1">
-                            <img class="imgCard" src="src/img/png/sora-sagano-3BMIntVUsjQ-unsplash.png" alt="">
+                            <img class="imgCard" src="src/img/png/gsb.png" alt="">
                             <h3>GSB</h3>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde quam ducimus architecto aliquid pariatur aliquam? Ad aliquid saepe maiores praesentium nobis, veritatis iste doloribus quibusdam atque non sequi commodi repudiandae.</p>
                             <h4><a href="">En savoir +</a></h4>
                         </div>
                     </div>
-                    
                 </div>
                 <div class="aProjetContent pcContentYear2">
                     <h2>Projet de 2eme année</h2>
                     <div class="cardContent">
                         <div class="Card shadowStyle1">
-                            <img class="imgCard" src="src/img/png/sora-sagano-3BMIntVUsjQ-unsplash.png" alt="">
+                            <img class="imgCard" src="src/img/png/logo_CROSL_2022_txtOnly.png" alt="">
                             <h3>CROS de Lorraine</h3>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde quam ducimus architecto aliquid pariatur aliquam? Ad aliquid saepe maiores praesentium nobis, veritatis iste doloribus quibusdam atque non sequi commodi repudiandae.</p>
                             <h4><a href="">En savoir +</a></h4>
@@ -41,7 +40,7 @@
                             <h4><a href="">En savoir +</a></h4>
                         </div>
                         <div class="Card shadowStyle1">
-                            <img class="imgCard" src="src/img/png/sora-sagano-3BMIntVUsjQ-unsplash.png" alt="">
+                            <img class="imgCard" src="src/img/png/raspLogo.png" alt="">
                             <h3>Serveur Web</h3>
                             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Obcaecati corporis aliquam consectetur accusantium a cumque, reiciendis sit perspiciatis repudiandae praesentium nihil officia perferendis fugiat, ullam vel magni officiis animi incidunt?</p>
                             <h4><a href="">En savoir +</a></h4>
@@ -62,7 +61,9 @@
                         <h2>Stage 1ere année</h2>
                         <div class="cardContent">
                             <div class="Card shadowStyle1">
-                                <img class="imgCard" src="src/img/png/sora-sagano-3BMIntVUsjQ-unsplash.png" alt="">
+                                <div class="imgContent">
+                                    <img class="imgCard" src="src/img/png/apple-touch-icon.png" alt="">
+                                </div>
                                 <h3>Centre Hospitalier de Lavaur</h3>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde quam ducimus architecto aliquid pariatur aliquam? Ad aliquid saepe maiores praesentium nobis, veritatis iste doloribus quibusdam atque non sequi commodi repudiandae.</p>
                                 <h4><a href="">En savoir +</a></h4>

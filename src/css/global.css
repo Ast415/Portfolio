@@ -233,6 +233,14 @@ footer{
     font-size: smaller;
 }
 
+.imgContent{
+    height: 185px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .imgCard{
     height: auto;
     width: 100%;
