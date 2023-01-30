@@ -30,7 +30,7 @@
                     <div class="demiCercle DCright"></div>
                 </div> -->
                 <div class="borderfC fCWidth bfCBottom shadowStyle1"></div>
-                <div class="fullContactContent textContent" id="IDcontact">
+                <div class="fullContactContent textContent" id="contact">
                     <h1 >CONTACT</h1>
                     <div class="contactContent">
                         <div class="contactContantText">

@@ -21,12 +21,12 @@
               <span class="line line3 "></span>
             </div>  
             <div class="menu-items">
-                <li><a href="#">Accueil</a></li>
-                <li><a href="#bts">BTS SIO</a></li>
-                <li><a href="#">Projets</a></li>
-                <li><a href="#">Stages</a></li>
-                <li><a href="#">Veilles</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="./?action=accueil">Accueil</a></li>
+                <li><a href="./?action=accueil#bts">BTS SIO</a></li>
+                <li><a href="./?action=experience#projets">Projets</a></li>
+                <li><a href="./?action=experience#stages">Stages</a></li>
+                <li><a href="./?action=veilles">Veilles</a></li>
+                <li><a href="./?action=accueil#contact">Contact</a></li>
             </div>
         </div>
       </div>
