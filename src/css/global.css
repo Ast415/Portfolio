@@ -233,12 +233,20 @@ footer{
     font-size: smaller;
 }
 
-.imgContent{
+.imgContent, .imgContentPop{
     height: 185px;
     width: auto;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.imgContentPop{
+    align-items: flex-start;
+    height: 225px;
+    overflow: hidden;
+    border-radius: 10px;
+    margin-bottom: 22px;
 }
 
 .imgCard, .imgCard2{
@@ -252,6 +260,13 @@ footer{
     width: 100%;
     max-height: 100%;
     height: auto;
+}
+
+.imgPop{
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: 0px;
 }
 
 h4{
@@ -274,6 +289,10 @@ h4{
     .Card{
         margin-left: 40px;
         margin-right: 40px;
+    }
+
+    .imgPop{
+        top: -30px;
     }
 
 }
@@ -325,11 +344,19 @@ h4{
     .pCText{
         font-size: initial;
     }
+
+    .imgPop{
+        top: -60px;
+    }
 }
 
 
 @media screen and (min-width: 1200px) {
     .pCText{
         font-size: inherit;
+    }
+
+    .imgPop{
+        top: -175px;
     }
 }
