@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="./src/css/fonts.css">
     <link rel="stylesheet" href="./src/css/global.css">
     <link rel="stylesheet" href="./src/css/burger.css">
+    <link rel="stylesheet" href="./src/css/popup.css">
 </head>
 <body>
     <header>
