@@ -32,7 +32,7 @@
                     <div class="cardContent">
                         <div class="Card shadowStyle1">
                             <div class="imgContent">
-                                <img class="imgCard" src="src/img/png/logoBarre" alt="">
+                                <img class="imgCard" src="src/img/png/logoBarre.png" alt="">
                             </div>
                             <h3>Refonte application PHP</h3>
                             <div class="textCardContent">
