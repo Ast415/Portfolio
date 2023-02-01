@@ -7,7 +7,7 @@
                     <div class="cardContent">
                         <div class="Card shadowStyle1">
                             <div class="imgContent">
-                                <img class="imgCard" src="src/img/png/sora-sagano-3BMIntVUsjQ-unsplash.png" alt="">
+                                <img class="imgCard2" src="src/img/png/GLPI_Logo-color.png" alt="">
                             </div>
                             <h3>GLPI</h3>
                             <div class="textCardContent">
@@ -32,33 +32,33 @@
                     <div class="cardContent">
                         <div class="Card shadowStyle1">
                             <div class="imgContent">
-                                <img class="imgCard" src="src/img/png/sora-sagano-3BMIntVUsjQ-unsplash.png" alt="">
+                                <img class="imgCard" src="src/img/png/logoBarre" alt="">
                             </div>
                             <h3>Refonte application PHP</h3>
                             <div class="textCardContent">
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id autem ea similique quisquam eos quod, sequi perspiciatis rerum dicta culpa eveniet aliquid sit rem nulla magnam quo, optio voluptatem recusandae.</p>
                             </div>
-                            <h4><a href="#default">En savoir +</a></h4>
+                            <h4><a href="#resto">En savoir +</a></h4>
                         </div>
                         <div class="Card shadowStyle1">
                             <div class="imgContent">
-                                <img class="imgCard" src="src/img/png/sora-sagano-3BMIntVUsjQ-unsplash.png" alt="">
+                                <img class="imgCard" src="src/img/png/mdl.png" alt="">
                             </div>
-                            <h3>Application Java</h3>
+                            <h3>Java gestion des adhérents</h3>
                             <div class="textCardContent">
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id autem ea similique quisquam eos quod, sequi perspiciatis rerum dicta culpa eveniet aliquid sit rem nulla magnam quo, optio voluptatem recusandae.</p>
                             </div>
-                            <h4><a href="#default">En savoir +</a></h4>
+                            <h4><a href="#adh">En savoir +</a></h4>
                         </div>
                         <div class="Card shadowStyle1">
                             <div class="imgContent">
                                 <img class="imgCard2" src="src/img/png/logo_CROSL_2022_txtOnly.png" alt="">
                             </div>
-                            <h3>CROS de Lorraine</h3>
+                            <h3>Gestion des Formations du CROSL</h3>
                             <div class="textCardContent">
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id autem ea similique quisquam eos quod, sequi perspiciatis rerum dicta culpa eveniet aliquid sit rem nulla magnam quo, optio voluptatem recusandae.</p>
                             </div>
-                            <h4><a href="#default">En savoir +</a></h4>
+                            <h4><a href="#cros">En savoir +</a></h4>
                         </div>
                     </div>
                 </div>
@@ -112,7 +112,7 @@
                                 <div class="textCardContent">
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id autem ea similique quisquam eos quod, sequi perspiciatis rerum dicta culpa eveniet aliquid sit rem nulla magnam quo, optio voluptatem recusandae.</p>
                                 </div>
-                                <h4><a href="#default">En savoir +</a></h4>
+                                <h4><a href="#chu">En savoir +</a></h4>
                             </div>
                         </div>
                     </div>
@@ -127,7 +127,7 @@
                                 <div class="textCardContent">
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id autem ea similique quisquam eos quod, sequi perspiciatis rerum dicta culpa eveniet aliquid sit rem nulla magnam quo, optio voluptatem recusandae.</p>
                                 </div>
-                                <h4><a href="#default">En savoir +</a></h4>
+                                <h4><a href="#cgx">En savoir +</a></h4>
                             </div>
                         </div>
                     </div>

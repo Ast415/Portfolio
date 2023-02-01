@@ -64,3 +64,63 @@
         </div>
     </div>
 </div>
+<div id="cros" class="overlay">
+    <div class="popup">
+        <h2>Gestion des Formations du CROSL</h2>
+        <a class="close" href="#">&times;</a>
+        <div class="content">
+            <div class="imgContentPop">
+                <img class="imgPop" src="src/img/png/assets-2.png" alt="">
+            </div>
+            <p>Le CROSL offre un catalogue de formations dans des domaines tels que la gestion, l'informatique, le développement durable, le secourisme et la communication. Les formations sont destinées aux salariés et bénévoles des associations affiliées à la maison régionale des sports de Lorraine.</p>
+            <p>L'application de gestion de catalogue de formation doit être gérée par M. Xaneth et Mme Giroux, les participants ne pouvant participer qu'à un maximum de 3 formations par an. Les inscriptions aux formations peuvent se faire en ligne via un site web avec identification et contrôle du statut du participant. En fin d'année, M. Xaneth souhaite une historisation des participations pour les analyses et statistiques.</p>
+            <p>L'application doit être développée avec une solution informatique sécurisée et doit inclure des fonctionnalités telles que la gestion du catalogue, les inscriptions en ligne et la documentation technique. Les développeurs doivent prendre en compte le modèle MVC, la gestion des versions et le planning prévisionnel.</p>
+            <h3>L'objectif du travail</h3>
+            <p>L'objectif de notre mission était de développer une application pour le CROSL afin de gérer le catalogue de formations et les inscriptions en ligne. Nous devions nous assurer que l'accès soit sécurisé et utiliser un formulaire d'inscription en ligne pour les participants ayant le statut de bénévole ou de salarié.</p>
+            <p>Nous étions divisés en deux parties pour développer la gestion du catalogue et les inscriptions en ligne. Nous devions réfléchir à la base de données, aux fonctionnalités nécessaires, aux choix d'architecture et à l'arborescence de chaque partie. Nous devions également prévoir un planning prévisionnel et mettre en œuvre le modèle MVC pour faciliter la maintenance et la clarté du code. Enfin, nous devions fournir une documentation technique et gérer les versions pour un travail collaboratif.</p>
+        </div>
+    </div>
+</div>
+<div id="adh" class="overlay">
+    <div class="popup">
+        <h2>Java gestion des adhérents</h2>
+        <a class="close" href="#">&times;</a>
+        <div class="content">
+            <div class="imgContentPop">
+                <img class="imgPop" src="src/img/png/assets-2.png" alt="">
+            </div>
+            <p>La Maison des Ligues de Lorraine (M2L) veut développer une application de bureau pour la gestion des adhérents des clubs d'escrime de la région. L'application doit permettre la création, la modification, la suppression et la recherche d'adhérents, générer un rapport récapitulatif des adhésions, consulter un annuaire des différents clubs d'escrime. Les extensions possibles incluent la gestion des intervenants, la planification des entrainements et des compétitions, et l'achat collectif/location de matériels. Il est recommandé d'utiliser un langage orienté objet et un outil de travail collaboratif/gestion de versions. Une documentation technique sera également nécessaire.</p>
+            <h3>L'objectif du travail</h3>
+            <p>L'objectif était de développer une application de bureau pour la Maison des Ligues de Lorraine afin de gérer les adhérents d'un club d'escrime et potentiellement étendre son utilisation à l'ensemble des clubs d'escrime de la région. La gestion des adhérents incluait la création de nouveaux adhérents, la recherche et la liste de membres particuliers, la modification et la suppression de membres existants.</p>
+            <p>Nous devions également fournir un annuaire des différentes associations consultable à travers l'application. Il nous était recommandé d'utiliser un langage de programmation orienté objet, de réfléchir au modèle de l'application, à l'interface graphique et au choix de sérialisation. Nous devions également fournir une documentation technique des fonctionnalités spécifiques et utiliser des outils de travail collaboratif.</p>
+        </div>
+    </div>
+</div>
+<div id="chu" class="overlay">
+    <div class="popup">
+        <h2>Centre Hospitalier de Lavaur</h2>
+        <a class="close" href="#">&times;</a>
+        <div class="content">
+            <div class="imgContentPop">
+                <img class="imgPop" src="src/img/jpg/chu.jpg" alt="">
+            </div>
+            <p>Le Centre Hospitalier de Lavaur est un hôpital datant du XIIIème siècle. Il a évolué au fil des ans avec l'ajout de nouveaux locaux et la construction de maisons de retraite et de centres de soins de santé mentale. Il a également rénové certains de ses locaux pour moderniser ses services et améliorer ses équipements. Il collabore étroitement avec le CHU de Toulouse pour offrir une offre de soins de qualité proche de la population, notamment dans les domaines de la médecine, la chirurgie, la maternité et la psychiatrie. Le Centre Hospitalier de Lavaur continue de se développer pour répondre à l'augmentation de la demande de soins de santé dans la région.</p>
+            <h3>L'objectif du travail</h3>
+            <p></p>
+        </div>
+    </div>
+</div>
+<div id="cgx" class="overlay">
+    <div class="popup">
+        <h2>CGX System</h2>
+        <a class="close" href="#">&times;</a>
+        <div class="content">
+            <div class="imgContentPop">
+                <img class="imgPop" src="src/img/png/cgx.png" alt="">
+            </div>
+            <p>CGX SYSTEM est une entreprise qui se concentre sur les objets connectés et les solutions "intelligentes". Ils ont des compétences avancées, une petite équipe, une forte réactivité, de bonnes capacités de financement et une maturité sur le marché. L'entreprise est soutenue par le groupe A.W.T et partage de nombreux services et processus avec leur société soeur CGX AERO. La protection des données et les politiques RGPD sont accessibles. Les valeurs de CGX SYSTEM incluent le service client, l'adaptabilité et la qualité des produits. Ils offrent des solutions sur mesure et s'engagent à fournir un logiciel sans erreurs.</p>
+            <h3>L'objectif du travail</h3>
+            <p></p>
+        </div>
+    </div>
+</div>
