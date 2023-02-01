@@ -262,6 +262,13 @@ footer{
     height: auto;
 }
 
+.textCardContent{
+    max-height: 108px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
 .imgPop{
     width: 100%;
     height: auto;
