@@ -109,7 +109,7 @@
                                     <img class="imgCard" src="src/img/png/apple-touch-icon.png" alt="">
                                 </div>
                                 <h3>Centre Hospitalier de Lavaur</h3>
-                                 class="textCardContent"<div>
+                                <div class="textCardContent">
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id autem ea similique quisquam eos quod, sequi perspiciatis rerum dicta culpa eveniet aliquid sit rem nulla magnam quo, optio voluptatem recusandae.</p>
                                 </div>
                                 <h4><a href="#default">En savoir +</a></h4>
@@ -124,7 +124,7 @@
                                     <img class="imgCard2" src="src/img/png/cropped-LOGO-CGX-SYSTEM-V2-BLEU-CIEL-DEFINITIF.png" alt="">
                                 </div>
                                 <h3>CGX System</h3>
-                                 class="textCardContent"<div>
+                                <div class="textCardContent">
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id autem ea similique quisquam eos quod, sequi perspiciatis rerum dicta culpa eveniet aliquid sit rem nulla magnam quo, optio voluptatem recusandae.</p>
                                 </div>
                                 <h4><a href="#default">En savoir +</a></h4>
