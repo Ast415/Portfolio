@@ -48,7 +48,7 @@
         <a class="close" href="#">&times;</a>
         <div class="content">
             <div class="imgContentPop">
-                <img class="imgPop" src="src/img/png/assets-2.png" alt="">
+                <img class="imgPop" src="src/img/png/it's_time_to_stop_0-7_screenshot.png" style="top: 0" alt="">
             </div>
             <p>Lors de chaque visite chez un médecin, deux produits maximum sont présentés en détail avec des petits rappels sur les autres. Les échantillons offerts ne sont pas forcément liés à ce qui a été présenté. Le nombre d'échantillons distribués doit être enregistré pour des raisons de comptabilité et de surveillance, mais cela est considéré comme pénible car il n'y a pas de moyen de simplement cocher les produits pour lesquels des échantillons ont été donnés.</p>
             <p>Il peut arriver que l'on tombe sur un remplaçant lors d'une visite chez un médecin et cela peut nécessiter une nouvelle visite. Les praticiens notent souvent les coordonnées des remplaçants qu'ils voient sur les fiches de visite, mais ils aimeraient pouvoir conserver la personne visitée en tant que remplaçant dans le logiciel.</p>
