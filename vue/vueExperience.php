@@ -94,6 +94,8 @@
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id autem ea similique quisquam eos quod, sequi perspiciatis rerum dicta culpa eveniet aliquid sit rem nulla magnam quo, optio voluptatem recusandae.</p>
                             </div>
                             <h4><a href="#default">En savoir +</a></h4>
+                            <h5>Épreuve E4</h5>
+                            <h6>Mettre en place et vérifier les niveaux d’habilitation associés à un service</h6>
                         </div>
                     </div>
                 </div>
