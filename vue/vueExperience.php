@@ -85,7 +85,8 @@
                             </div>
                             <h4><a href="#serveur">En savoir +</a></h4>
                         </div>
-                        <div class="Card shadowStyle1">
+                        <div class="Card shadowStyle1" id="box" onmousemove="myFunction(event)">
+                            <div id="tooltip">Tooltip 1</div>
                             <div class="imgContent">
                                 <img class="imgCard" src="src/img/png/sora-sagano-3BMIntVUsjQ-unsplash.png" alt="">
                             </div>
@@ -135,6 +136,6 @@
                     </div>
                 </div>
             </div>
-            <?php include ("vuePopup.php"); ?>
+            <?php include ("vuePopup.php"); include ("vueTooltip.php");?>
         </div>
     </main>

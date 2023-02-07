@@ -9,6 +9,8 @@
     <link rel="stylesheet" href="./src/css/global.css">
     <link rel="stylesheet" href="./src/css/burger.css">
     <link rel="stylesheet" href="./src/css/popup.css">
+    <link rel="stylesheet" href="./src/css/tooltip.css">
+    <script src="./src/js/tooltip.js"></script>
 </head>
 <body>
     <header>
