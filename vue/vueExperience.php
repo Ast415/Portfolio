@@ -81,7 +81,7 @@
                             </div>
                             <h3>Serveur Web</h3>
                             <div class="textCardContent">
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id autem ea similique quisquam eos quod, sequi perspiciatis rerum dicta culpa eveniet aliquid sit rem nulla magnam quo, optio voluptatem recusandae.</p>
+                                <p> ipsum dolor sit amet consectetur adipisicing elit. Id autem ea similique quisquam eos quod, sequi perspiciatis rerum dicta culpa eveniet aliquid sit rem nulla magnam quo, optio voluptatem recusandae.</p>
                             </div>
                             <h4><a href="#serveur">En savoir +</a></h4>
                         </div>
