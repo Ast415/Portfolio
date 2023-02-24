@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="./src/css/burger.css">
     <link rel="stylesheet" href="./src/css/popup.css">
     <link rel="stylesheet" href="./src/css/tooltip.css">
+    <link rel="stylesheet" href="./src/css/timeline.css">
     <script src="./src/js/tooltip.js"></script>
 </head>
 <body>
@@ -25,7 +26,7 @@
             </div>  
             <div class="menu-items">
                 <li><a href="./?action=accueil">Accueil</a></li>
-                <li><a href="./?action=accueil#etude">Études</a></li>
+                <li><a href="./?action=parcours">Parcours</a></li>
                 <li><a href="./?action=experience#projets">Projets</a></li>
                 <li><a href="./?action=experience#stages">Stages</a></li>
                 <li><a href="./?action=accueil#contact">Contact</a></li>
