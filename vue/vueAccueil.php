@@ -9,7 +9,7 @@
                 </div>
                 <div class="profilContent textContent pCText">
                     <h1>BORIES Bastien</h1>
-                    <p>21 ans et actuellement en deuxième année de BTS SIO (Services Informatiques aux Organisations), option SLAM (Solutions Logicielles et Applications Métiers). J'ai grandi à Castres puis déménagé à Toulouse pour poursuivre mes études.</p>
+                    <p><?php echo date('Y')-2002; ?> ans et actuellement en deuxième année de BTS SIO (Services Informatiques aux Organisations), option SLAM (Solutions Logicielles et Applications Métiers). J'ai grandi à Castres puis déménagé à Toulouse pour poursuivre mes études.</p>
                     <p>Depuis toujours, Je suis passionné de jeux vidéo et d'informatique, c'est pour cela que j'ai choisi de poursuivre mes études dans ce domaine. Originaire d’un BAC PRO SN j’ai choisie de me diriger vers ce BTS pour pouvoir faire ce qui me plait le plus, de la programmation. Une fois ce BTS fini, je compte faire une formation de développeur web en alternance. Mon objectif pour au moins les 10 prochaine années c’est de devenir développeur fullstack. Mais à long terme, je souhaite devenir développeur de jeux vidéo, ce qui est mon rêve d’enfance.</p>
                     <p>Je suis motivé, travailleur et j'apprécie le travail d'équipe, car je crois que la cohésion d'équipe est importante pour la motivation et l'entraide des personnes.</p>
                 </div>
