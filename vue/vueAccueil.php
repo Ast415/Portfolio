@@ -5,6 +5,7 @@
         <div class="homeContent">
             <div class="fullProfilContent">
                 <div class="profilContent pCHeader">
+                    <div class="wallpaper"></div>
                     <div class="profilePhoto shadowStyle1"></div>
                 </div>
                 <div class="profilContent textContent pCText">
@@ -13,6 +14,12 @@
                     <p>Depuis toujours, Je suis passionné de jeux vidéo et d'informatique, c'est pour cela que j'ai choisi de poursuivre mes études dans ce domaine. Originaire d’un BAC PRO SN j’ai choisie de me diriger vers ce BTS pour pouvoir faire ce qui me plait le plus, de la programmation. Une fois ce BTS fini, je compte faire une formation de développeur web en alternance. Mon objectif pour au moins les 10 prochaine années c’est de devenir développeur fullstack. Mais à long terme, je souhaite devenir développeur de jeux vidéo, ce qui est mon rêve d’enfance.</p>
                     <p>Je suis motivé, travailleur et j'apprécie le travail d'équipe, car je crois que la cohésion d'équipe est importante pour la motivation et l'entraide des personnes.</p>
                 </div>
+            </div>
+            <div class="textContent">
+                <h1 style="text-align: center">
+                    STATUE
+                </h1>
+                <p>Actuellement en fin de 2nde année de BTS SIO j'ai effectué récemment mon dernier stage datent du 9 janvier au 17 février. Aujourd'hui je me prépare pour mes examens finaux et recherche une nouvelle école pour poursuivre mes études une entreprise pour faire peu etre une alternance</p>
             </div>
             <div id="etude" class="formationContent textContent fCWidth" >
                 <div class="btsLogoContent">
@@ -27,12 +34,12 @@
                     <h1 >CONTACT</h1>
                     <div class="contactContent">
                         <div class="contactContantText">
-                            <h2>drop message</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, praesentium deleniti itaque recusandae obcaecati nostrum veritatis saepe ipsam ea rerum quam dolor repudiandae eius sint placeat amet laudantium. Quas, deserunt!</p>
+                            <h2>N'hésitez pas, contactez moi !</h2>
+                            <p>Vous recherchez quelqu'un de dévoué, travailleur et passionné, je suis la personne qu'il vous faut ! Avec mes compétences et mon expérience, je suis prêt à relever tous les défis que vous pourriez me proposer, j'ai à cœur de travailler avec vous pour atteindre nos objectifs communs. Je suis impatient de discuter avec vous de la manière dont je peux contribuer à votre entreprise.</p>
                             <div class="contactContentInfo">
                                 <div class="contactInfo">
                                     <div class="Qbert reverseBackColor"><img class="icon2" src="src/img/png/telephone1.png" alt=""></div>
-                                    <p>07 81 81 81 81</p>
+                                    <p>07 81 87 88 97</p>
                                 </div>
                                 <div class="contactInfo">
                                     <div class="Qbert reverseBackColor"><img class="icon2" src="src/img/png/email1.png" alt=""></div>
@@ -42,6 +49,14 @@
                                     <div class="Qbert reverseBackColor"><img class="icon2" src="src/img/png/drapeaux1.png" alt=""></div>
                                     <p>118 Rte de Narbonne, Tripode A<br>31400 Toulouse</p>
                                 </div> 
+                                <!-- <div class="contactInfo">
+                                    <div class="Qbert reverseBackColor"><img class="icon2" src="src/img/png/drapeaux1.png" alt=""></div>
+                                    <p>Linkdin</p>
+                                </div>
+                                <div class="contactInfo">
+                                    <div class="Qbert reverseBackColor"><img class="icon2" src="src/img/png/drapeaux1.png" alt=""></div>
+                                    <p>GitHub</p>
+                                </div>  -->
                             </div>
                             
                         </div>
@@ -61,7 +76,6 @@
                                 </div>
                             </form>
                         </div>
-                        
                     </div>
                 </div>
             </div>
