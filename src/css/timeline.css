@@ -13,6 +13,7 @@ body {
   background: #ffffff;
 }*/
 
+
 .timeline {
   position: relative;
   width: 100%;
@@ -21,11 +22,11 @@ body {
   padding: 15px 0;
 }
 
-.timeline::after {
+.timeline::after{
   content: '';
   position: absolute;
   width: 2px;
-  background: #006E51;
+  background: beige;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -55,10 +56,11 @@ body {
   height: 16px;
   top: calc(50% - 8px);
   right: -8px;
-  background: #ffffff;
-  border: 2px solid #006E51;
+  background: #c93b94;
+  border: 2px solid white;
   border-radius: 16px;
   z-index: 1;
+  box-shadow: 0px 0px 15px 0px rgb(0 0 0);
 }
 
 .timeline-container.right::after {
@@ -72,8 +74,7 @@ body {
   height: 2px;
   top: calc(50% - 1px);
   right: 8px;
-  background: #006E51;
-  z-index: 1;
+  background: beige;
 }
 
 .timeline-container.right::before {
@@ -87,18 +88,19 @@ body {
   text-align: center;
   font-size: 14px;
   font-weight: bold;
-  color: #006E51;
+  color: white;
   text-transform: uppercase;
   letter-spacing: 1px;
   z-index: 1;
+  text-shadow: 0px 0px 5px rgb(0 0 0);
 }
 
 .timeline-container.left .date {
-  right: -75px;
+  right: -90px;
 }
 
 .timeline-container.right .date {
-  left: -75px;
+  left: -90px;
 }
 
 .timeline-container .icon {
@@ -109,16 +111,17 @@ body {
   padding: 9px 0;
   top: calc(50% - 20px);
   background: #F6D155;
-  border: 2px solid #006E51;
+  border: 2px solid white;
   border-radius: 40px;
   text-align: center;
   font-size: 18px;
-  color: #006E51;
+  color: white;
   z-index: 1;
+  visibility: hidden;
 }
 
-.timeline-container, .icon{
-    box-sizing: border-box;
+.timeline-container, .icon, .timeline-container::after{
+  box-sizing: border-box;
 }
 
 .timeline-container.left .icon {
@@ -130,22 +133,23 @@ body {
 }
 
 .timeline-container .content {
-  padding: 30px 90px 30px 30px;
+  padding: 30px;
   background: beige;
   position: relative;
-  border-radius: 0 500px 500px 0;
+  border-radius: 20px;
+  box-shadow: 0px 0px 30px rgb(0 0 0 / 60%);
 }
 
-.timeline-container.right .content {
+/* .timeline-container.right .content {
   padding: 30px 30px 30px 90px;
   border-radius: 500px 0 0 500px;
-}
+} */
 
 .timeline-container .content h2 {
   margin: 0 0 10px 0;
   font-size: 18px;
   font-weight: normal;
-  color: #006E51;
+  color: black;
 }
 
 .timeline-container .content p {
@@ -178,13 +182,13 @@ body {
   .timeline-container.left::before,
   .timeline-container.right::before {
     left: 100px;
-    border-color: transparent #006E51 transparent transparent;
+    border-color: transparent white transparent transparent;
   }
 
   .timeline-container.left .date,
   .timeline-container.right .date {
     right: auto;
-    left: 15px;
+    left: 7px;
   }
 
   .timeline-container.left .icon,
@@ -193,9 +197,9 @@ body {
     left: 146px;
   }
 
-  .timeline-container.left .content,
+  /* .timeline-container.left .content,
   .timeline-container.right .content {
     padding: 30px 30px 30px 90px;
     border-radius: 500px 0 0 500px;
-  }
+  } */
 }
