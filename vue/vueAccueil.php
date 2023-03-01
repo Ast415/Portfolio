@@ -42,11 +42,13 @@
                                     <p>07 81 87 88 97</p>
                                 </div>
                                 <div class="contactInfo">
-                                    <div class="Qbert reverseBackColor"><div class="icon contact gmail"></div></div>
+                                    <a href="mailto:bastienbories81pro@gmail.com">
+                                        <div class="Qbert reverseBackColor"><div class="icon contact gmail"></div></div>
+                                    </a>
                                     <p>bastienbories81pro@gmail.com</p>
                                 </div>
                                 <div class="contactInfo">
-                                    <div class="Qbert reverseBackColor"><div class="icon contact map"></div></div>
+                                    <a href="#map"><div class="Qbert reverseBackColor" id="#closeMap"><div class="icon contact map"></div></div></a>
                                     <p>118 Rte de Narbonne, Tripode A<br>31400 Toulouse</p>
                                 </div>
                             </div>
@@ -68,6 +70,15 @@
                             </form>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+        <div id="map" class="overlay">
+            <div class="popup map">
+                <h2>Google Maps</h2>
+                <a class="close" href="#closeMap">&times;</a>
+                <div class="content map">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2891.0939082855216!2d1.4613102153386406!3d43.56292627912454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12aebc17d5f5d385%3A0x45d63d7b7bdf9dcc!2sR%C3%A9sidence%20Universitaire%20Archim%C3%A8de%20(Tripode%20A)!5e0!3m2!1sfr!2sfr!4v1677693203538!5m2!1sfr!2sfr" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </div>
