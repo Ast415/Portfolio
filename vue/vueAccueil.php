@@ -15,8 +15,8 @@
                     <p>Je suis motivé, travailleur et j'apprécie le travail d'équipe, car je crois que la cohésion d'équipe est importante pour la motivation et l'entraide des personnes.</p>
                 </div>
             </div>
-            <div class="textContent">
-                <h1 style="text-align: center">
+            <div class="statueContent textContent">
+                <h1>
                     STATUE
                 </h1>
                 <p>Actuellement en fin de 2nde année de BTS SIO j'ai effectué récemment mon dernier stage datent du 9 janvier au 17 février. Aujourd'hui je me prépare pour mes examens finaux et recherche une nouvelle école pour poursuivre mes études une entreprise pour faire peu etre une alternance</p>
@@ -38,27 +38,18 @@
                             <p>Vous recherchez quelqu'un de dévoué, travailleur et passionné, je suis la personne qu'il vous faut ! Avec mes compétences et mon expérience, je suis prêt à relever tous les défis que vous pourriez me proposer, j'ai à cœur de travailler avec vous pour atteindre nos objectifs communs. Je suis impatient de discuter avec vous de la manière dont je peux contribuer à votre entreprise.</p>
                             <div class="contactContentInfo">
                                 <div class="contactInfo">
-                                    <div class="Qbert reverseBackColor"><img class="icon2" src="src/img/png/telephone1.png" alt=""></div>
+                                    <div class="Qbert reverseBackColor"><div class="icon contact phone"></div></div>
                                     <p>07 81 87 88 97</p>
                                 </div>
                                 <div class="contactInfo">
-                                    <div class="Qbert reverseBackColor"><img class="icon2" src="src/img/png/email1.png" alt=""></div>
+                                    <div class="Qbert reverseBackColor"><div class="icon contact gmail"></div></div>
                                     <p>bastienbories81pro@gmail.com</p>
                                 </div>
                                 <div class="contactInfo">
-                                    <div class="Qbert reverseBackColor"><img class="icon2" src="src/img/png/drapeaux1.png" alt=""></div>
+                                    <div class="Qbert reverseBackColor"><div class="icon contact map"></div></div>
                                     <p>118 Rte de Narbonne, Tripode A<br>31400 Toulouse</p>
-                                </div> 
-                                <!-- <div class="contactInfo">
-                                    <div class="Qbert reverseBackColor"><img class="icon2" src="src/img/png/drapeaux1.png" alt=""></div>
-                                    <p>Linkdin</p>
                                 </div>
-                                <div class="contactInfo">
-                                    <div class="Qbert reverseBackColor"><img class="icon2" src="src/img/png/drapeaux1.png" alt=""></div>
-                                    <p>GitHub</p>
-                                </div>  -->
                             </div>
-                            
                         </div>
                         <div class="contactContantCard">
                             <form action="#contact" method="post" class="contactCard reverseBackColor" >

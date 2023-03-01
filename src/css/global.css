@@ -72,6 +72,13 @@ h1{
     top: 30%;
 }
 
+.statueContent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
 .formationContent{
     background-color: beige;
     color: black;
@@ -205,24 +212,63 @@ button{
     filter: invert(1);
 }
 
-footer{
-    visibility: hidden;
+.icon.contact{
+    width: 30px;
+    height: 30px;
+}
+
+.icon.contact.phone{
+    background-image: url(../svg/iconmonstr-phone-3.svg);
+}
+
+.icon.contact.gmail{
+    background-image: url(../svg/iconmonstr-gmail-1.svg);
+}
+
+.icon.contact.map{
+    background-image: url(../svg/iconmonstr-map-8.svg);
 }
 
 footer{
-    border-top: beige 0.2px solid;
+    /* visibility: hidden; */
+}
+
+footer{
+    /* border-top: beige 0.2px solid; */
     width: 100%;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: #0a0a2b;
+    box-shadow: 0px -10px 20px 0px rgb(0 0 0 / 60%);
+    padding: 20px 0px 20px 0px;
+    gap: 20px
 }
 
-.footInInco, .droitAuteurContent, .reseauContent{
+.reseauContent, .linkContent{
     display: flex;
+    gap: 20px;
 }
 
-.footInInco, .reseauContent{
-    width: 360px;
+.droitAuteurContent {
+    opacity: 0.5;
+    font-size: small;
+}
+
+.icon{
+    background-size: cover;
+    filter: invert(1);
+    width: 40px;
+    height: 40px;
+}
+
+.icon.git{
+    background-image: url(../svg/iconmonstr-github-1.svg);
+}
+
+.icon.linkedin{
+    background-image: url(../svg/iconmonstr-linkedin-3.svg);
 }
 
 .experiencesContent{
@@ -359,6 +405,10 @@ h5{
         height: 250px;
     }
 
+    .statueContent > p{
+        margin: 0 10% 0 10%;
+    }
+
     .fCWidth{
         margin-left: 10%;
         margin-right: 10%;
@@ -398,5 +448,9 @@ h5{
 
     .imgPop{
         top: -175px;
+    }
+
+    .statueContent > p{
+        margin: 0 20% 0 20%;
     }
 }

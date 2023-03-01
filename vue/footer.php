@@ -1,17 +1,16 @@
 </body>
 <footer>
-    <div class="footInInco">
-
+    <div class="reseauContent">
+        <!-- https://iconmonstr.com/ -->
+        <div class="icon git"></div>
+        <div class="icon linkedin"></div>
+    </div>
+    <div class="linkContent">
+        <div>Source</div>
+        <div>Politique de confidentialité</div>
     </div>
     <div class="droitAuteurContent">
-        2023 - BORIES Bastien
+        © <?php echo date('Y'); ?> Bastien BORIES
     </div>
-    <div class="reseauContent">
-        <div class="Qbert reverseBackColor"></div>
-        <div class="Qbert reverseBackColor"></div>
-        <div class="Qbert reverseBackColor"></div>
-        <div class="Qbert reverseBackColor"></div>
-    </div>
-    
 </footer>
 </html>
