@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="./src/css/fonts.css">
     <link rel="stylesheet" href="./src/css/global.css">
     <link rel="stylesheet" href="./src/css/burger.css">
+    <link rel="stylesheet" href="./src/css/dropdown.css">
     <link rel="stylesheet" href="./src/css/popup.css">
     <link rel="stylesheet" href="./src/css/tooltip.css">
     <link rel="stylesheet" href="./src/css/timeline.css">
@@ -15,7 +16,7 @@
 </head>
 <body>
     <header>
-    <nav>
+    <nav class="burgerNav">
       <div class="navbar">
         <div class="container nav-container">
             <input class="checkbox" type="checkbox" name="" id="" />
@@ -25,13 +26,28 @@
               <span class="line line3 "></span>
             </div>  
             <div class="menu-items">
-                <li><a href="./?action=accueil">Accueil</a></li>
-                <li><a href="./?action=parcours">Parcours</a></li>
-                <li><a href="./?action=experience#projets">Projets</a></li>
-                <li><a href="./?action=experience#stages">Stages</a></li>
-                <li><a href="./?action=accueil#contact">Contact</a></li>
+              <li><a href="./?action=accueil">Accueil</a></li>
+              <li><a href="./?action=parcours">Parcours</a></li>
+              <li><a href="./?action=experience#projets">Projets</a></li>
+              <li><a href="./?action=experience#stages">Stages</a></li>
+              <li><a href="./?action=accueil#contact">Contact</a></li>
             </div>
         </div>
       </div>
+    </nav>
+    <nav class="dropdownNav" id="navigation">
+        <!-- <a href="#" class="logo">Studio<span>+<span></a> -->
+        <ul class="links">
+              <li><a href="./?action=accueil">Accueil</a></li>
+              <li><a href="./?action=parcours">Parcours</a></li>
+            <li class="dropdown"><a class="trigger-drop">Expérience<i class="arrow"></i></a>
+            <ul class="drop">
+              <li class="first"><a href="./?action=experience#outils">Outil</a></li>
+              <li><a href="./?action=experience#projets">Projet</a></li>
+              <li><a href="./?action=experience#stages">Stage</a></li>
+            </ul>
+            </li>
+              <li><a href="./?action=accueil#contact">Contact</a></li>
+        </ul>
     </nav>
     </header>

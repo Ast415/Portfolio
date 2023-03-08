@@ -1,0 +1,172 @@
+/* https://codepen.io/sathishlxg/pen/JoLOYR?editors=1100 */
+
+/* * {
+    box-sizing: border-box;
+} */
+/* body {
+    background: #33334d;
+    color: #222;
+    line-height: normal;
+    font-size: 16px;
+    font-family: sans-serif;
+} */
+
+.dropdownNav{
+    visibility: hidden;
+}
+
+a, a:hover {
+    text-decoration: none;
+}
+nav {
+    /*
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 50px;
+    background: transparent;
+    box-shadow: transparent;
+    z-index: 1000;
+    min-width: 580px; */
+
+    
+    left: 0;
+    right: 0;
+    top: 0;
+    /* height: auto; */
+    background: transparent;
+    box-shadow: transparent;
+    z-index: 1000;
+    /* min-width: 580px; */
+    width: 50%;
+    
+}
+/* nav .logo {
+    position: relative;
+    float: left;
+    height: 50px;
+    line-height: 50px;
+    padding: 0 15px;
+    font-size: 22px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+nav .logo span {
+    display: inline-block;
+    position: relative;
+    top: -8px;
+    font-size: 13pt;
+}
+nav .logo:hover {
+    background: #9494b8;
+} */
+nav .links {
+    width: 100%;
+    height: auto;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+nav .links li {
+    float: left;
+    list-style: none;
+    position: relative;
+    margin: 10px;
+    display: inline-block;
+}
+nav .links li > a {
+    position: relative;
+    display: inline-block;
+    padding: 0 10px;
+    line-height: 30px;
+    height: 30px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    z-index: 1;
+    user-select: none;
+    transition: background-color 0.3s;
+}
+nav .links li > a:hover {
+    /* font-weight: bolder; */
+    background-color: #0a0a2b;
+    border-radius: 10px;
+}
+nav .links li > a[class^="trigger-"] {
+    padding-right: 40px;
+}
+nav .links li > a .arrow {
+    position: absolute;
+    right: 10px;
+    border-width: 5px 5px 0 5px;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.5) #c50e0e00;
+}
+nav .links li > a .arrow:after {
+    content: "";
+    border-left: 1px solid rgb(255, 255, 255, 0.5);
+    top: -10px;
+    left: -15px;
+    position: absolute;
+    height: 15px;
+}
+nav .links li ul {
+    position: absolute;
+    left: 0;
+    margin: 0;
+    top: 0;
+    background-color: #0a0a2b;
+    border-radius: 2px;
+    box-shadow: 0 0 5px rgb(0 0 0 / 15%);
+    padding: 0;
+    width: 100%;
+    text-align: center;
+    border-radius: 10px;
+    display: none;
+}
+nav .links li ul > li {
+    clear: both;
+    list-style: none;
+    display: block;
+    margin: 0;
+    width: 100%;
+}
+nav .links li ul > li:hover {
+    background: #9494b8;
+}
+nav .links li ul > li:hover > a {
+    background: #9494b8;
+    color: #fff;
+}
+nav .links li:hover > .drop {
+    display: block;
+    animation: fadeInBottom 0.3s ease;
+    -webkit-animation: fadeInBottom 0.3s ease;
+}
+nav .links li:hover > .drop > .first{
+    margin-top: 30px;
+}
+@keyframes fadeInBottom {
+    0% {
+        opacity: 0;
+        transform: translate3d( 0, 0, 100%);
+   }
+    100% {
+        opacity: 1;
+        transform: none;
+   }
+}
+
+@media screen and (min-width: 960px){
+
+    nav{
+        position: absolute;
+        margin-left: 50%;
+    }
+
+    .dropdownNav{
+        visibility: visible;
+    }
+}

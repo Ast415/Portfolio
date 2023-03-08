@@ -160,7 +160,10 @@ nav{
 }
 
 @media screen and (min-width: 960px){
-  .navbar .menu-items {
+  .burgerNav{
+    visibility: hidden;
+  }
+  /* .navbar .menu-items {
     box-shadow: none;
     background-color: initial;
     height: min-content;
@@ -203,5 +206,5 @@ nav{
 
   .hamburger-lines {
     visibility: hidden;
-}
+  } */
 }
