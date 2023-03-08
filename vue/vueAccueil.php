@@ -38,7 +38,9 @@
                             <p>Vous recherchez quelqu'un de dévoué, travailleur et passionné, je suis la personne qu'il vous faut ! Avec mes compétences et mon expérience, je suis prêt à relever tous les défis que vous pourriez me proposer, j'ai à cœur de travailler avec vous pour atteindre nos objectifs communs. Je suis impatient de discuter avec vous de la manière dont je peux contribuer à votre entreprise.</p>
                             <div class="contactContentInfo">
                                 <div class="contactInfo">
-                                    <div class="Qbert reverseBackColor"><div class="icon contact phone"></div></div>
+                                    <a href="tel:+33781878897">
+                                        <div class="Qbert reverseBackColor"><div class="icon contact phone"></div></div>
+                                    </a>
                                     <p>07 81 87 88 97</p>
                                 </div>
                                 <div class="contactInfo">
@@ -78,7 +80,7 @@
                 <h2>Google Maps</h2>
                 <a class="close" href="#closeMap">&times;</a>
                 <div class="content map">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2891.0939082855216!2d1.4613102153386406!3d43.56292627912454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12aebc17d5f5d385%3A0x45d63d7b7bdf9dcc!2sR%C3%A9sidence%20Universitaire%20Archim%C3%A8de%20(Tripode%20A)!5e0!3m2!1sfr!2sfr!4v1677693203538!5m2!1sfr!2sfr" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2891.0939082855216!2d1.4613102153386406!3d43.56292627912454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12aebc17d5f5d385%3A0x45d63d7b7bdf9dcc!2sR%C3%A9sidence%20Universitaire%20Archim%C3%A8de%20(Tripode%20A)!5e0!3m2!1sfr!2sfr!4v1677693203538!5m2!1sfr!2sfr" width="100%" height="99%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </div>
