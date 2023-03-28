@@ -1,6 +1,6 @@
     <main>
-        <div class="experiencesContent" id="projets">
-            <div class="aExpContent projetsContent">
+        <div class="experiencesContent">
+            <div class="aExpContent projetsContent" id="projets">
                 <h1>Mes Projets</h1>
                 <div class="aProjetContent pcContentYear1">
                     <h2>Projet de 1ere année</h2>
@@ -148,6 +148,98 @@
                         </div>
                     </div>
                 </div>
+            </div>
+            <div class="aExpContent outilsContent" id="outils">
+                <!-- https://www.svgrepo.com/ -->
+                <h1>Outils pratiqués</h1>
+                <div>
+                    <div>
+                        <h2>Languages</h2>
+                        <div class="cardContent">
+                            <div class="Card outils shadowStyle1">
+                                <div class="imgContent outilsIcon">
+                                    <img class="" src="src/svg/html-5-logo-svgrepo-com.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="Card outils shadowStyle1">
+                                <div class="imgContent outilsIcon">
+                                    <img class="" src="src/svg/css-3-svgrepo-com.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="Card outils shadowStyle1">
+                                <div class="imgContent outilsIcon">
+                                    <img class="" src="src/svg/javascript-svgrepo-com.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="Card outils shadowStyle1">
+                                <div class="imgContent outilsIcon">
+                                    <img class="" src="src/svg/java-svgrepo-com.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="Card outils shadowStyle1">
+                                <div class="imgContent outilsIcon">
+                                    <img class="" src="src/svg/typescript-svgrepo-com.svg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <h2>Framework</h2>
+                        <div class="cardContent">
+                            <div class="Card outils shadowStyle1">
+                                <div class="imgContent outilsIcon">
+                                    <img class="" src="src/svg/tailwind-svgrepo-com.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="Card outils shadowStyle1">
+                                <div class="imgContent outilsIcon">
+                                    <img class="" src="src/svg/symfony-svgrepo-com.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="Card outils shadowStyle1">
+                                <div class="imgContent outilsIcon">
+                                    <img class="" src="src/svg/angular-icon-svgrepo-com.svg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <h2>IDE</h2>
+                        <div class="cardContent">
+                            <div class="Card outils shadowStyle1">
+                                <div class="imgContent outilsIcon">
+                                    <img class="" src="src/svg/visual-studio-code-svgrepo-com.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="Card outils shadowStyle1">
+                                <div class="imgContent outilsIcon">
+                                    <img class="" src="src/svg/visual-studio-svgrepo-com.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="Card outils shadowStyle1">
+                                <div class="imgContent outilsIcon">
+                                    <img class="" src="src/svg/eclipse-icon-svgrepo-com.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="Card outils shadowStyle1">
+                                <div class="imgContent outilsIcon">
+                                    <img class="" src="src/svg/Android_Studio_Icon_3.6.svg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <h2>Autre</h2>
+                        <div class="cardContent">
+                            <div class="Card outils shadowStyle1">
+                                <div class="imgContent outilsIcon">
+                                    <img class="" src="src/svg/git-svgrepo-com.svg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
             </div>
             <?php include ("vuePopup.php"); include ("vueTooltip.php");?>
         </div>

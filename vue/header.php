@@ -42,9 +42,9 @@
               <li><a href="./?action=parcours">Parcours</a></li>
             <li class="dropdown"><a class="trigger-drop">Expérience<i class="arrow"></i></a>
             <ul class="drop">
-              <li class="first"><a href="./?action=experience#outils">Outil</a></li>
-              <li><a href="./?action=experience#projets">Projet</a></li>
+              <li class="first"><a href="./?action=experience#projets">Projet</a></li>
               <li><a href="./?action=experience#stages">Stage</a></li>
+              <li><a href="./?action=experience#outils">Outil</a></li>
             </ul>
             </li>
               <li><a href="./?action=accueil#contact">Contact</a></li>
