@@ -51,6 +51,16 @@
         </div>
       </div>
       <div class="timeline-container right">
+        <div class="date">Juil 2023</div>
+        <i class="icon fa fa-certificate"></i>
+        <div class="content">
+          <h2>Obtenir mon BTS SIO</h2>
+          <p>
+            Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
+          </p>
+        </div>
+      </div>
+      <div class="timeline-container left">
         <div class="date">2023 +</div>
         <i class="icon fa fa-certificate"></i>
         <div class="content">
