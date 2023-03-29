@@ -168,7 +168,17 @@
                             </div>
                             <div class="Card outils shadowStyle1">
                                 <div class="imgContent outilsIcon">
+                                    <img class="" src="src/svg/php2-svgrepo-com.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="Card outils shadowStyle1">
+                                <div class="imgContent outilsIcon">
                                     <img class="" src="src/svg/javascript-svgrepo-com.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="Card outils shadowStyle1">
+                                <div class="imgContent outilsIcon">
+                                    <img class="" src="src/svg/typescript-svgrepo-com.svg" alt="">
                                 </div>
                             </div>
                             <div class="Card outils shadowStyle1">
@@ -178,7 +188,7 @@
                             </div>
                             <div class="Card outils shadowStyle1">
                                 <div class="imgContent outilsIcon">
-                                    <img class="" src="src/svg/typescript-svgrepo-com.svg" alt="">
+                                    <img class="" src="src/svg/csharp-svgrepo-com.svg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -234,6 +244,21 @@
                             <div class="Card outils shadowStyle1">
                                 <div class="imgContent outilsIcon">
                                     <img class="" src="src/svg/git-svgrepo-com.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="Card outils shadowStyle1">
+                                <div class="imgContent outilsIcon">
+                                    <img class="" src="src/svg/phpmyadmin-svgrepo-com.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="Card outils shadowStyle1">
+                                <div class="imgContent outilsIcon">
+                                    <img class="" src="src/svg/mariadb-svgrepo-com.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="Card outils shadowStyle1">
+                                <div class="imgContent outilsIcon">
+                                    <img class="" src="src/svg/debian-svgrepo-com.svg" alt="">
                                 </div>
                             </div>
                         </div>
