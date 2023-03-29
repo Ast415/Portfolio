@@ -17,13 +17,14 @@
             </div>
             <div class="statueContent textContent">
                 <h1>
-                    STATUE
+                    STATU
                 </h1>
                 <p>Actuellement en fin de 2nde année de BTS SIO j'ai effectué récemment mon dernier stage datent du 9 janvier au 17 février. Aujourd'hui je me prépare pour mes examens finaux et recherche une nouvelle école pour poursuivre mes études une entreprise pour faire peu etre une alternance</p>
             </div>
             <div id="etude" class="formationContent textContent fCWidth" >
                 <div class="btsLogoContent">
-                    <img  src="src/img/png/logo-btssio.png" alt="" class="btsLogo">
+                    <!-- <img  src="src/img/png/logo-btssio.png" alt="" class="btsLogo"> -->
+                    <img  src="src/svg/logo-btssio-svg.svg" alt="" class="btsLogo">
                 </div>
                 <p>Le BTS Services informatiques aux Organisations est un diplôme reconnu par l’état de niveau Bac+2. Il remplace, depuis septembre 2011, l’ancien BTS informatique de Gestion (BTS IG). En effet, cette nouvelle formule répond aux attentes de la profession en matière de qualification. Le programme a évolué en fonction de la place et du rôle des TIC (Technologies d’Information Communication) et propose deux spécialités bien distinctes : le BTS SIO SISR et le BTS SIO SLAM.</p>
                 <p>Il associe aux enseignements théoriques et professionnels (en contrôle continu et final) deux stages en entreprise (10 à 11 semaines réparties en première année et en deuxième année d’études), en formation initiale. </p>
