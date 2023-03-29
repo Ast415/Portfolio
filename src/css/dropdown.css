@@ -148,6 +148,10 @@ nav .links li:hover > .drop {
 nav .links li:hover > .drop > .first{
     margin-top: 30px;
 }
+nav .links li:hover > .drop > .last{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
 @keyframes fadeInBottom {
     0% {
         opacity: 0;

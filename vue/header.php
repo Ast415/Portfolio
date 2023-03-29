@@ -30,6 +30,7 @@
               <li><a href="./?action=parcours">Parcours</a></li>
               <li><a href="./?action=experience#projets">Projets</a></li>
               <li><a href="./?action=experience#stages">Stages</a></li>
+              <li><a href="./?action=experience#outils">Outils</a></li>
               <li><a href="./?action=accueil#contact">Contact</a></li>
             </div>
         </div>
@@ -44,7 +45,7 @@
             <ul class="drop">
               <li class="first"><a href="./?action=experience#projets">Projet</a></li>
               <li><a href="./?action=experience#stages">Stage</a></li>
-              <li><a href="./?action=experience#outils">Outil</a></li>
+              <li class="last"><a href="./?action=experience#outils">Outil</a></li>
             </ul>
             </li>
               <li><a href="./?action=accueil#contact">Contact</a></li>
