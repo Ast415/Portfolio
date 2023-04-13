@@ -17,7 +17,7 @@
 <div id="serveur" class="overlay">
     <div class="popup">
         <h2>Serveur Web</h2>
-        <a class="close" href="#">&times;</a>
+        <a class="close" href="#serveurOut">&times;</a>
         <div class="content">
             <div class="imgContentPop">
                 <img class="imgPop" src="src/img/jpg/293739.jpg" alt="">
@@ -30,7 +30,7 @@
 <div id="glpi" class="overlay">
     <div class="popup">
         <h2>GLPI</h2>
-        <a class="close" href="#">&times;</a>
+        <a class="close" href="#glpiOut">&times;</a>
         <div class="content">
             <div class="imgContentPop">
                 <img class="imgPop" src="src/img/png/assets-2.png" alt="">
@@ -45,7 +45,7 @@
 <div id="gsb" class="overlay">
     <div class="popup">
         <h2>GSB Projet APPLI-RAPPORTS</h2>
-        <a class="close" href="#">&times;</a>
+        <a class="close" href="#gsbOut">&times;</a>
         <div class="content">
             <div class="imgContentPop">
                 <img class="imgPop" src="src/img/png/it's_time_to_stop_0-7_screenshot.png" style="top: 0" alt="">
@@ -67,7 +67,7 @@
 <div id="cros" class="overlay">
     <div class="popup">
         <h2>Gestion des Formations du CROSL</h2>
-        <a class="close" href="#">&times;</a>
+        <a class="close" href="#crosOut">&times;</a>
         <div class="content">
             <div class="imgContentPop">
                 <img class="imgPop" src="src/img/png/assets-2.png" alt="">
@@ -84,7 +84,7 @@
 <div id="adh" class="overlay">
     <div class="popup">
         <h2>Java gestion des adhérents</h2>
-        <a class="close" href="#">&times;</a>
+        <a class="close" href="#adhOut">&times;</a>
         <div class="content">
             <div class="imgContentPop">
                 <img class="imgPop" src="src/img/png/assets-2.png" alt="">
@@ -99,7 +99,7 @@
 <div id="chu" class="overlay">
     <div class="popup">
         <h2>Centre Hospitalier de Lavaur</h2>
-        <a class="close" href="#">&times;</a>
+        <a class="close" href="#chuOut">&times;</a>
         <div class="content">
             <div class="imgContentPop">
                 <img class="imgPop" src="src/img/jpg/chu.jpg" alt="">
@@ -113,13 +113,27 @@
 <div id="cgx" class="overlay">
     <div class="popup">
         <h2>CGX System</h2>
-        <a class="close" href="#">&times;</a>
+        <a class="close" href="#cgxOut">&times;</a>
         <div class="content">
             <div class="imgContentPop">
                 <img class="imgPop" src="src/img/png/cgx.png" alt="">
             </div>
-            <p>CGX SYSTEM est une entreprise qui se concentre sur les objets connectés et les solutions "intelligentes". Ils ont des compétences avancées, une petite équipe, une forte réactivité, de bonnes capacités de financement et une maturité sur le marché. L'entreprise est soutenue par le groupe A.W.T et partage de nombreux services et processus avec leur société soeur CGX AERO. La protection des données et les politiques RGPD sont accessibles. Les valeurs de CGX SYSTEM incluent le service client, l'adaptabilité et la qualité des produits. Ils offrent des solutions sur mesure et s'engagent à fournir un logiciel sans erreurs.</p>
+            <p>CGX System est une entreprise française spécialisée dans l'ingénierie et les études techniques, dont le siège social est situé à Rue Claude Galien, Le Causse Espace Entreprises, 81290 Labruguière. La société a été créée en 2008 et est enregistrée au Registre du Commerce et des Sociétés (RCS) de Castres. Avec un effectif compris entre 6 et 9 salariés, la société a un capital social de 316 000 euros.</p>
+
+            <p>CGX System est connue pour avoir développé une solution de digitalisation des opérations de damage, destinée à l'industrie des sports d'hiver, qui permet de numériser les processus et d'accélérer les échanges d'informations liés à la gestion des dommages. Elle offre également d'autres solutions pour la gestion du parc roulant, l'utilisation de cartographie interactive, etc.</p>
+
+            <p>La société se concentre sur les objets connectés et les solutions "intelligentes", offrant des solutions sur mesure et s'engageant à fournir un logiciel sans erreurs. La société est soutenue par le groupe A.W.T et partage de nombreux services et processus avec leur société sœur CGX AERO. Les valeurs de CGX System incluent le service client, l'adaptabilité et la qualité des produits, avec des politiques de protection des données et de conformité RGPD accessibles.</p>
+
             <h3>L'objectif du travail</h3>
+
+            <p>Mon objectif était de rendre la page mobile-friendly en tenant compte des spécificités de l'interface utilisateur. La page contient une carte de type Google Map et un tableau contenant les noms des machines et leurs périodes de fonctionnement. Mon travail a consisté à étudier la faisabilité des solutions envisagées pour adapter l'interface, notamment en utilisant des modules comme @fullcalendar et @highcharts. Après une analyse minutieuse, nous avons opté pour le module @highcharts pour sa flexibilité et ses options de personnalisation équivalentes à celles de @fullcalendar.</p>
+
+            <p>J'ai travaillé avec l'IDE Visual Studio code, les Frameworks Angular et Node JS, les langages HTML, CSS, JavaScript et TypeScript pour mettre en place cette solution. Ma mission a débuté par la compréhension du code du projet pour pouvoir effectuer des recherches et des tests sur les modules les plus adaptés à notre problématique. Après une semaine de recherches, j'ai effectué des tests sur un projet à part pour évaluer les possibilités offertes par @highcharts. J'ai ensuite présenté une démo de mon travail à mon maitre de stage pour validation. Après cette étape, j'ai pu commencer à travailler sur l'adaptation de l'interface de la page en utilisant @highcharts.</p>
+
+            <!-- <p>CGX system est à l’origine du net application native Windows qui permet la gestion des dameuses et autre véhicule de station de neige. Depuis 2 ans elle effectue une transition vers une application PWA, aujourd’hui cette nouvelle application est bien avancée mais n’est toujours pas parfaite, surtout pour les supports mobiles</p>
+            <p>Pour c’est activité CGx System ma charger d’adapter l’interface d’une des pages de l’application au format mobil. La suite CGx étant une PWA, il est donc important que l’application puisse supporter des appareils ayant un format d’écran plus petit que la normal.</p>
+            <p>C’est page est celle qui le plus besoins d’une adaptation, elle contient une carte de type Google Map et un tableau contentent les noms de machines et leurs périodes de fonctionnement.</p>  -->
+
             <p></p>
         </div>
     </div>
