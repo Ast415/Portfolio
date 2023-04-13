@@ -22,4 +22,9 @@
     font-family: 'KonnectB';
     src: url("../fonts/Konnect/KonnectBold.otf")
 }
+
+@font-face {
+    font-family: 'NotoSerifR';
+    src: url("../fonts/Noto_Serif/NotoSerif-Regular.ttf")
+}
    
