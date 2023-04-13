@@ -9,7 +9,9 @@
                     <div class="profilePhoto shadowStyle1"></div>
                 </div>
                 <div class="profilContent textContent pCText">
-                    <h1>BORIES Bastien</h1>
+                    <div class="myLogo profil">
+                        <span>BASTIEN</span><b>BORIES</b>
+                    </div>
                     <p><?php echo date('Y')-2002; ?> ans et actuellement en deuxième année de BTS SIO (Services Informatiques aux Organisations), option SLAM (Solutions Logicielles et Applications Métiers). J'ai grandi à Castres puis déménagé à Toulouse pour poursuivre mes études.</p>
                     <p>Depuis toujours, Je suis passionné de jeux vidéo et d'informatique, c'est pour cela que j'ai choisi de poursuivre mes études dans ce domaine. Originaire d’un BAC PRO SN j’ai choisie de me diriger vers ce BTS pour pouvoir faire ce qui me plait le plus, de la programmation. Une fois ce BTS fini, je compte faire une formation de développeur web en alternance. Mon objectif pour au moins les 10 prochaine années c’est de devenir développeur fullstack. Mais à long terme, je souhaite devenir développeur de jeux vidéo, ce qui est mon rêve d’enfance.</p>
                     <p>Je suis motivé, travailleur et j'apprécie le travail d'équipe, car je crois que la cohésion d'équipe est importante pour la motivation et l'entraide des personnes.</p>
@@ -71,6 +73,35 @@
                                     <button type="submit" onclick="alert('Fonctionnalité non disponible')">Envoyer</button>
                                 </div>
                             </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="docContent textContent">
+                    <h1>DOCUMENTS</h1>
+                    <div class="cardContent">
+                        <div class="Card outils shadowStyle1">
+                            <div class="imgContent outilsIcon">
+                                <a href="src/pdf/CV - BORIES Bastien.pdf" target="_blank"><img class="" src="src/svg/curriculum-vitae-portfolio-svgrepo-com.svg" alt=""></a>
+                            </div>
+                            <h5>CV</h5>
+                        </div>
+                        <div class="Card outils shadowStyle1">
+                            <div class="imgContent outilsIcon">
+                                <a href="src/pdf/BORIES Bastien - attestation de stage 1eme annee.pdf" target="_blank"><img class="" src="src/svg/doc-blue-svgrepo-com.svg" alt=""></a>
+                            </div>
+                            <h5>Attestation<br>1er annee</h5>
+                        </div>
+                        <div class="Card outils shadowStyle1">
+                            <div class="imgContent outilsIcon">
+                                <a href="src/pdf/BORIES Bastien - attestation de stage 2eme annee.pdf" target="_blank"><img class="" src="src/svg/doc-red-svgrepo-com.svg" alt=""></a>
+                            </div>
+                            <h5>Attestation<br>2eme annee</h5>
+                        </div>
+                        <div class="Card outils shadowStyle1">
+                            <div class="imgContent outilsIcon">
+                                <a href="src/pdf/Tableau de synthèse - Epreuve E4 - BORIES Bastien.pdf" target="_blank"><img class="" src="src/svg/spreadsheet-green-svgrepo-com.svg" alt=""></a>
+                            </div>
+                            <h5>Tableau des<br>compétences</h5>
                         </div>
                     </div>
                 </div>
