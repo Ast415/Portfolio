@@ -49,6 +49,10 @@ body {
   left: 50%;
 }
 
+.timeline-container.left.first, .timeline-container.right.first{
+  margin-top: 110px;
+}
+
 .timeline-container::after {
   content: '';
   position: absolute;
