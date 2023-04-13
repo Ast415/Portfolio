@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title><?php echo $titre ?></title>
+    <link rel="icon" href="./src/img/png/logoSite.png">
     <link rel="stylesheet" href="./src/css/fonts.css">
     <link rel="stylesheet" href="./src/css/global.css">
     <link rel="stylesheet" href="./src/css/burger.css">
@@ -51,4 +52,15 @@
               <li><a href="./?action=accueil#contact">Contact</a></li>
         </ul>
     </nav>
+
+    <?php
+    if(isset($_GET["action"])){
+    $action = $_GET["action"];
+    if($action != "accueil"){
+    ?>
+    <div class="myLogo header">
+      <span>BASTIEN</span><b>BORIES</b>
+    </div>
+    <?php }}; ?>
+
     </header>
