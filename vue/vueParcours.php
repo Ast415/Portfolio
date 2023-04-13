@@ -1,6 +1,6 @@
   <main>
     <div class="timeline">
-      <div class="timeline-container left">
+      <div class="timeline-container left first">
         <div class="date">Juil 2017</div>
         <i class="icon fa fa-home"></i>
         <div class="content">
