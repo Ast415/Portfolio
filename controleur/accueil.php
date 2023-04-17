@@ -24,11 +24,11 @@ if(isset($_POST['mailform'])){
     </html>
     ';
 
-    echo($message);
-    echo($name);
-    echo($email);
+    // echo($message);
+    // echo($name);
+    // echo($email);
     
-    mail("bastien.bories@androcode.fr", "Salut tout le monde !", $message, $header);
+    mail("bastien.bories@androcode.fr", "Message de ".$name." depuis mon site", $message, $header);
 }
 
 
