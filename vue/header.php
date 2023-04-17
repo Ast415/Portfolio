@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo $titre ?></title>
     <link rel="icon" href="./src/img/png/logoSite.png">
-    <link rel="stylesheet" href="./src/css/fonts.css">
-    <link rel="stylesheet" href="./src/css/global.css">
-    <link rel="stylesheet" href="./src/css/burger.css">
-    <link rel="stylesheet" href="./src/css/dropdown.css">
-    <link rel="stylesheet" href="./src/css/popup.css">
-    <link rel="stylesheet" href="./src/css/tooltip.css">
-    <link rel="stylesheet" href="./src/css/timeline.css">
+    <link rel="stylesheet" href="./src/css/fonts.css?<?php echo filemtime('./src/css/fonts.css'); ?>">
+    <link rel="stylesheet" href="./src/css/global.css?<?php echo filemtime('./src/css/global.css'); ?>">
+    <link rel="stylesheet" href="./src/css/burger.css?<?php echo filemtime('./src/css/burger.css'); ?>">
+    <link rel="stylesheet" href="./src/css/dropdown.css?<?php echo filemtime('./src/css/dropdown.css'); ?>">
+    <link rel="stylesheet" href="./src/css/popup.css?<?php echo filemtime('./src/css/popup.css'); ?>">
+    <link rel="stylesheet" href="./src/css/tooltip.css?<?php echo filemtime('./src/css/tooltip.css'); ?>">
+    <link rel="stylesheet" href="./src/css/timeline.css?<?php echo filemtime('./src/css/timeline.css'); ?>">
     <script src="./src/js/tooltip.js"></script>
 </head>
 <body>
