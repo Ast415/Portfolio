@@ -58,33 +58,6 @@
                                 </div>
                             </div>
                         </div>
-                        <?php
-                        if(isset($_POST['mailform'])){
-
-                            $email = $_POST['email'];
-                            $name = $_POST['name'];
-                            $message = $_POST['message'];
-                        
-                            $header="MIME-Version: 1.0\r\n";
-                            $header.='From:"'.$name.'"<'.$email.'>'."\n";
-                            $header.='Content-Type:text/html; charset="uft-8"'."\n";
-                            $header.='Content-Transfer-Encoding: 8bit';
-                            
-                            $message='
-                            <html>
-                                <body>
-                                    <div align="center">
-                                        '.$message.'
-                                    </div>
-                                </body>
-                            </html>
-                            ';
-                        
-                            //echo($message);
-                            
-                            mail("bastien.bories@androcode.fr", "Message de "+$name+" depuis mon site", $message, $header);
-                        }
-                        ?>
                         <div class="contactContantCard">
                             <form method="POST" class="contactCard reverseBackColor" >
                                 <div class="cCInput">

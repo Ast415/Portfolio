@@ -3,31 +3,31 @@ if ( $_SERVER["SCRIPT_FILENAME"] == __FILE__ ){
     $racine="..";
 }
 
-// if(isset($_POST['mailform'])){
+if(isset($_POST['mailform'])){
 
-//     $email = $_POST['email'];
-//     $name = $_POST['name'];
-//     $message = $_POST['message'];
+    // $email = $_POST['email'];
+    // $name = $_POST['name'];
+    // $message = $_POST['message'];
 
-//     $header="MIME-Version: 1.0\r\n";
-//     $header.='From:"'.$name.'"<'.$email.'>'."\n";
-//     $header.='Content-Type:text/html; charset="uft-8"'."\n";
-//     $header.='Content-Transfer-Encoding: 8bit';
+    // $header="MIME-Version: 1.0\r\n";
+    // $header.='From:"'.$name.'"<'.$email.'>'."\n";
+    // $header.='Content-Type:text/html; charset="uft-8"'."\n";
+    // $header.='Content-Transfer-Encoding: 8bit';
     
-//     $message='
-//     <html>
-//         <body>
-//             <div align="center">
-//                 '.$message.'
-//             </div>
-//         </body>
-//     </html>
-//     ';
+    // $message='
+    // <html>
+    //     <body>
+    //         <div align="center">
+    //             '.$message.'
+    //         </div>
+    //     </body>
+    // </html>
+    // ';
 
-//     //echo($message);
+    // //echo($message);
     
-//     mail("bastien.bories@androcode.fr", "Message de "+$name+" depuis mon site", $message, $header);
-// }
+    // mail("bastien.bories@androcode.fr", "Message de "+$name+" depuis mon site", $message, $header);
+}
 
 
 $titre = "Accueil";
