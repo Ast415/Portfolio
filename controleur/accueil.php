@@ -25,6 +25,8 @@ if(isset($_POST['mailform'])){
     ';
 
     echo($message);
+    echo($name);
+    echo($email);
     
     //mail("bastien.bories@androcode.fr", "Message de "+$name+" depuis mon site", $message, $header);
 }
