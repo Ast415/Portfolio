@@ -61,16 +61,16 @@
                         <div class="contactContantCard">
                             <form action="#contact" method="post" class="contactCard reverseBackColor" >
                                 <div class="cCInput">
-                                    <input type="text" name="" id="" placeholder="Nom">
+                                    <input type="text" name="name" id="" placeholder="Nom Prenom">
                                 </div>
                                 <div class="cCInput">
-                                    <input type="email" name="" id="" placeholder="Email">
+                                    <input type="email" name="email" id="" placeholder="Email">
                                 </div>
                                 <div class="cCInput ccItextA">
-                                    <textarea name="message" id="" cols="30" rows="10" placeholder="Message"></textarea>
+                                    <textarea name="message" id="" cols="30" rows="9" placeholder="Message"></textarea>
                                 </div>
                                 <div class="cCInput">
-                                    <button type="submit" onclick="alert('Fonctionnalité non disponible')">Envoyer</button>
+                                    <button type="submit" name="mailform">Envoyer</button>
                                 </div>
                             </form>
                         </div>

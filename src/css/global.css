@@ -178,6 +178,13 @@ h1{
 
 .cCInput > button{
     cursor: pointer;
+    transition: all 0.2s;
+}
+
+.cCInput > button:hover{
+    background-color: #ababe6;
+    color: black;
+    font-weight: bold;
 }
 
 .ccItextA{
@@ -197,7 +204,6 @@ input, textarea{
 }
 
 textarea[name=message] {
-    margin-bottom: 10px;
     resize: none;
 }
 
@@ -446,15 +452,21 @@ footer{
 
 h4{
     text-align: right;
+    border-bottom: 0.2px black solid;
+    padding-bottom: 20px;
 }
 
 h5, h6{
     margin: 0;
 }
 
-h5{
-    border-top: 0.2px black solid;
+/* h5{
     padding-top: 20px;
+} */
+
+.Card > ul > li{
+    text-align: left;
+    font-size: smaller;
 }
 
 .cardContent, .stagesContent{
