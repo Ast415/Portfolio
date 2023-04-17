@@ -7,10 +7,11 @@ if(isset($_POST['mailform'])){
 
     $email = $_POST['email'];
     $name = $_POST['name'];
+    $surname = $_POST['surname'];
     $message = $_POST['message'];
 
     $header="MIME-Version: 1.0\r\n";
-    $header.='From:"'.$name.'"<'.$email.'>'."\n";
+    $header.='From:"'.$name.' '.$surname.'"<'.$email.'>'."\n";
     $header.='Content-Type:text/html; charset="uft-8"'."\n";
     $header.='Content-Transfer-Encoding: 8bit';
     
@@ -28,7 +29,7 @@ if(isset($_POST['mailform'])){
     // echo($name);
     // echo($email);
     
-    mail("bastien.bories@androcode.fr", "Message de ".$name." depuis mon site", $message, $header);
+    mail("bastien.bories@androcode.fr", "Message de ".$name." ".$surname." depuis mon site", $message, $header);
 }
 
 

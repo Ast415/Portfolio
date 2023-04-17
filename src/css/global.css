@@ -176,9 +176,22 @@ h1{
     width: 100%;
 }
 
+.cCInput.name{
+    flex-direction: initial;
+    gap: 5px
+}
+
+.cCInput.name > input[type="text"]{
+    width: inherit;
+}
+
 .cCInput > button{
     cursor: pointer;
     transition: all 0.2s;
+}
+
+.cCInput > button[type="text"]{
+    width: inherit;
 }
 
 .cCInput > button:hover{

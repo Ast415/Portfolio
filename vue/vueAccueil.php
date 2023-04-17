@@ -47,10 +47,10 @@
                                     <p>07 81 87 88 97</p>
                                 </div>
                                 <div class="contactInfo">
-                                    <a href="mailto:bastienbories81pro@gmail.com">
+                                    <a href="mailto:bastien.bories@androcode.fr">
                                         <div class="Qbert reverseBackColor"><div class="icon contact gmail"></div></div>
                                     </a>
-                                    <p>bastienbories81pro@gmail.com</p>
+                                    <p>bastien.bories@androcode.fr</p>
                                 </div>
                                 <div class="contactInfo">
                                     <a href="#map"><div class="Qbert reverseBackColor" id="#closeMap"><div class="icon contact map"></div></div></a>
@@ -60,14 +60,15 @@
                         </div>
                         <div class="contactContantCard">
                             <form method="POST" class="contactCard reverseBackColor" >
-                                <div class="cCInput">
-                                    <input type="text" name="name" id="" placeholder="Nom Prenom">
+                                <div class="cCInput name">
+                                    <input type="text" name="name" id="" placeholder="Nom" required>
+                                    <input type="text" name="surname" id="" placeholder="Prenom" required>
                                 </div>
                                 <div class="cCInput">
-                                    <input type="email" name="email" id="" placeholder="Email">
+                                    <input type="email" name="email" id="" placeholder="Email" required>
                                 </div>
                                 <div class="cCInput ccItextA">
-                                    <textarea name="message" id="" cols="30" rows="9" placeholder="Message"></textarea>
+                                    <textarea name="message" id="" cols="30" rows="9" placeholder="Message" required></textarea>
                                 </div>
                                 <div class="cCInput">
                                     <button type="submit" name="mailform">Envoyer</button>
