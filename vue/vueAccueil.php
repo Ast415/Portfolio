@@ -59,7 +59,7 @@
                             </div>
                         </div>
                         <div class="contactContantCard">
-                            <form action="" method="post" class="contactCard reverseBackColor" >
+                            <form action="./?action=accueil" method="post" class="contactCard reverseBackColor" >
                                 <div class="cCInput">
                                     <input type="text" name="name" id="" placeholder="Nom Prenom">
                                 </div>
