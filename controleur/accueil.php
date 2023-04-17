@@ -4,6 +4,7 @@ if ( $_SERVER["SCRIPT_FILENAME"] == __FILE__ ){
 }
 
 if(isset($_POST['mailform'])){
+    echo("---------------------------------------------------------------------------------------------------");
 
     // $email = $_POST['email'];
     // $name = $_POST['name'];
