@@ -14,6 +14,10 @@
                                 <p>Par groupe de deux, ce travail consistait en une étude de découverte de l'outil GLPI (Gestion Libre de Parc Informatique) en vue d'une utilisation pour la gestion du parc informatique d'un lycée.</p>
                             </div>
                             <h4><a href="#glpi">En savoir +</a></h4>
+                            <ul>
+                                <li>Gérer le patrimoine informatique</li>
+                                <li>Répondre aux incidents et aux demandes d’assistance et d’évolution</li>
+                            </ul>
                         </div>
                         <div class="Card shadowStyle1" id="gsbOut">
                             <div class="imgContent">
@@ -30,16 +34,6 @@
                 <div class="aProjetContent pcContentYear2">
                     <h2>Projet de 2eme année</h2>
                     <div class="cardContent">
-                        <div class="Card shadowStyle1" id="#restoOut">
-                            <div class="imgContent">
-                                <img class="imgCard" src="src/img/png/logoBarre.png" alt="">
-                            </div>
-                            <h3>Refonte application PHP</h3>
-                            <div class="textCardContent">
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id autem ea similique quisquam eos quod, sequi perspiciatis rerum dicta culpa eveniet aliquid sit rem nulla magnam quo, optio voluptatem recusandae.</p>
-                            </div>
-                            <h4><a href="#resto">En savoir +</a></h4>
-                        </div>
                         <div class="Card shadowStyle1" id="#adhOut">
                             <div class="imgContent">
                                 <img class="imgCard" src="src/img/png/mdl.png" alt="">
@@ -59,6 +53,11 @@
                                 <p>Le CROSL offre des formations en gestion, informatique, communication, etc aux associations affiliées. M. Xaneth et Mme Giroux son on charge de gèrent la gestion du catalogue de l'application.</p>
                             </div>
                             <h4><a href="#cros">En savoir +</a></h4>
+                            <ul>
+                                <li>Développer la présence en ligne de l’organisation</li>
+                                <li>Travailler en mode projet</li>
+                                <li>Mettre à disposition des utilisateurs un service informatique</li>
+                            </ul>
                         </div>
                         <div class="Card shadowStyle1" id="#androidOut">
                             <div class="imgContent">
@@ -94,6 +93,7 @@
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id autem ea similique quisquam eos quod, sequi perspiciatis rerum dicta culpa eveniet aliquid sit rem nulla magnam quo, optio voluptatem recusandae.</p>
                             </div>
                             <h4><a href="#portfolio">En savoir +</a></h4>
+                            <ul><li>Organiser son développement professionnel</li></ul>
                         </div>
                         <div class="Card shadowStyle1" id="#ionosOut">
                             <div class="imgContent">
@@ -104,6 +104,7 @@
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id autem ea similique quisquam eos quod, sequi perspiciatis rerum dicta culpa eveniet aliquid sit rem nulla magnam quo, optio voluptatem recusandae.</p>
                             </div>
                             <h4><a href="#ionos">En savoir +</a></h4>
+                            <ul><li>Organiser son développement professionnel</li></ul>
                         </div>
                         <!-- <div class="Card shadowStyle1 box" id="test1" onmousemove="myFunction(event)">
                             <div class="tooltip">Tooltip 1</div>
@@ -115,8 +116,7 @@
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id autem ea similique quisquam eos quod, sequi perspiciatis rerum dicta culpa eveniet aliquid sit rem nulla magnam quo, optio voluptatem recusandae.</p>
                             </div>
                             <h4><a href="#default">En savoir +</a></h4>
-                            <h5>Épreuve E4</h5>
-                            <h6>Mettre en place et vérifier les niveaux d’habilitation associés à un service</h6>
+                            <li>Mettre en place et vérifier les niveaux d’habilitation associés à un service</li>
                         </div>
                         <div class="Card shadowStyle1 box" id="test2" onmousemove="myFunction(event)">
                             <div class="tooltip">Tooltip 2</div>
@@ -128,8 +128,7 @@
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id autem ea similique quisquam eos quod, sequi perspiciatis rerum dicta culpa eveniet aliquid sit rem nulla magnam quo, optio voluptatem recusandae.</p>
                             </div>
                             <h4><a href="#default">En savoir +</a></h4>
-                            <h5>Épreuve E4</h5>
-                            <h6>Mettre en place et vérifier les niveaux d’habilitation associés à un service</h6>
+                            <li>Mettre en place et vérifier les niveaux d’habilitation associés à un service</li>
                         </div> -->
                     </div>
                 </div>
@@ -149,6 +148,10 @@
                                     <p>Le CH de Lavaur, datant du 13e siècle, s'est modernisé avec de nouveaux bâtiments et la collaboration avec le CHU de Toulouse. Il offre des soins de qualité en médecine, chirurgie, maternité et psychiatrie.</p>
                                 </div>
                                 <h4><a href="#chu">En savoir +</a></h4>
+                                    <ul>
+                                    <li>Gérer le patrimoine informatique</li>
+                                    <li>Mettre à disposition des utilisateurs un service informatique</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -164,6 +167,10 @@
                                     <p>CGX System est une entreprise spécialisée dans l'ingénierie et les études techniques pour l'industrie des sports d'hiver. L'objectif rendu leur page mobile-friendly en utilisant @highcharts, Angular, Node JS, TypeScript.</p>
                                 </div>
                                 <h4><a href="#cgx">En savoir +</a></h4>
+                                <ul>
+                                    <li>Répondre aux incidents et aux demandes d’assistance et d’évolution</li>
+                                    <li>Mettre à disposition des utilisateurs un service informatique</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -174,14 +181,16 @@
                 <h1>Outils pratiqués</h1>
                 <div>
                     <div>
-                        <h2>Languages</h2>
+                        <h2>Langages</h2>
                         <div class="cardContent">
-                            <div class="Card outils shadowStyle1">
+                            <div class="Card outils shadowStyle1 box" id="HTML" onmousemove="setTooltip(event)">
+                                <div class="tooltip"></div>
                                 <div class="imgContent outilsIcon">
                                     <img class="" src="src/svg/html-5-logo-svgrepo-com.svg" alt="">
                                 </div>
                             </div>
-                            <div class="Card outils shadowStyle1">
+                            <div class="Card outils shadowStyle1 box" id="CSS" onmousemove="setTooltip(event)">
+                                <div class="tooltip"></div>
                                 <div class="imgContent outilsIcon">
                                     <img class="" src="src/svg/css-3-svgrepo-com.svg" alt="">
                                 </div>

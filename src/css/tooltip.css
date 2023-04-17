@@ -1,9 +1,9 @@
 /*https://codepen.io/paulvddool/pen/mROEGa*/
 
 .box {
-  height: 500px;
+  /* height: 500px;
   width: 500px;
-  border: 2px solid red;
+  border: 2px solid red; */
   position: relative;
 }
 .tooltip {
@@ -16,7 +16,8 @@
   transition: opacity 0.2s ease-in-out;
   padding: 5px;
   border-radius: 10px;
-  min-width: 300px;
+  min-width: 130px;
+  text-align: center;
 }
 .box:hover .tooltip {
   opacity: 1;
