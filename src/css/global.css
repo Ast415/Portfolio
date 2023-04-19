@@ -109,7 +109,7 @@ h1{
     background-image: url("../../src/img/jpg/bestPP.jpg");
 } */
 
-.statueContent, .docContent{
+.statueContent, .docContent, .stageContent{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -409,6 +409,61 @@ footer{
     border-radius: 10px;
 }
 
+.stageContent .imgContent{
+    background: none;
+}
+
+.buttonLink{
+    background-color: #0a0a2b;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-top: 5px;
+    padding: 5px 30px 5px 30px;
+    transition: all 0.2s;
+}
+
+.buttonLink:hover{
+    background-color: #ababe6;
+    color: black;
+    font-weight: bold;
+}
+
+.lesStages{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.unStage{
+    width: 300px;
+}
+
+/* .unStage.first{
+    border-right: white 0.2px solid;
+    padding-right: 20px;
+}
+
+.unStage.last{
+    border-left: white 0.2px solid;
+    padding-left: 20px;
+} */
+
+.unStage.first{
+    border-bottom: white 0.2px solid;
+    padding-bottom: 20px;
+}
+
+.unStage.last{
+    border-top: white 0.2px solid;
+    padding-top: 20px;
+}
+
+.unStage > p{
+    text-align: justify;
+}
+
 .imgContent.outilsIcon {
     height: 100px;
     width: 100px;
@@ -577,6 +632,26 @@ h5, h6{
     .contactContantText{
         align-items:flex-start;
         margin-bottom: 0px;
+    }
+
+    .lesStages{
+        display: flex;
+        flex-direction: row;
+        margin-top: 20px;
+    }
+
+    .unStage.first{
+        border-bottom: none;
+        padding-bottom: 0px;
+        border-right: white 0.2px solid;
+        padding-right: 20px;
+    }
+    
+    .unStage.last{
+        border-top: none;
+        padding-top: 0px;
+        border-left: white 0.2px solid;
+        padding-left: 20px;
     }
 
     .pCText{

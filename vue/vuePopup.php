@@ -16,7 +16,7 @@
 </div>
 <div id="glpi" class="overlay">
     <div class="popup">
-        <h2>GLPI</h2>
+        <h2>Gestion d'un SI et de ticket avec GLPI</h2>
         <a class="close" href="#glpiOut">&times;</a>
         <div class="content">
             <div class="imgContentPop">
@@ -29,9 +29,75 @@
 
             <h3>Réalisation</h3>
             <h4>Gérer le patrimoine informatique</h4>
-            
-            
+            <!-- <img src="src\img\png\glpi\image-010.png" alt=""> -->
+            <!-- <img src="src\img\png\glpi\image-012.png" alt=""> -->
+            <!-- <img src="src\img\png\glpi\image-013.png" alt=""> -->
+            <!-- <img src="src\img\png\glpi\image-014.png" alt=""> -->
+            <!-- <img src="src\img\png\glpi\image-010.png" alt=""> -->
+            <!-- <img src="src\img\png\glpi\image-010.png" alt=""> -->
+            <p>Ce travails c'est passer en deux temps, dans un premier temps il fallait crée un gabarie d'ordinateur puis l'utiliser pour ajouter 15 même ordinateurs.</p>
+            <div class="subcontent">
+                <div class="commentaire">
+                    <?php $imageUrl = "src\img\png\glpi\image-010.png" ?>
+                    <a href="<?php echo $imageUrl ?>" target="_blank"><img src="<?php echo $imageUrl ?>" alt=""></a>
+                    Création d'un gabarie pour des ordinateurs
+                </div>
+                <div class="commentaire">
+                    <?php $imageUrl = "src\img\png\glpi\image-012.png" ?>
+                    <a href="<?php echo $imageUrl ?>" target="_blank"><img src="<?php echo $imageUrl ?>" alt=""></a>
+                    Ajout d'un nouvelle ordinateur a partir d'un gabarie
+                </div>
+                <div class="commentaire">
+                    <?php $imageUrl = "src\img\png\glpi\image-013.png" ?>
+                    <a href="<?php echo $imageUrl ?>" target="_blank"><img src="<?php echo $imageUrl ?>" alt=""></a>
+                    Liste des ordinateurs
+                </div>
+                <div class="commentaire">
+                    <?php $imageUrl = "src\img\png\glpi\image-014.png" ?>
+                    <a href="<?php echo $imageUrl ?>" target="_blank"><img src="<?php echo $imageUrl ?>" alt=""></a>
+                    Création d'un gabarie pour des logiciels
+                </div>
+                <!-- <div class="commentaire">
+                    <?php $imageUrl = "src\img\png\glpi\image-010.png" ?>
+                    <a href="<?php echo $imageUrl ?>" target="_blank"><img src="<?php echo $imageUrl ?>" alt=""></a>
+                    
+                </div>
+                <div class="commentaire">
+                    <?php $imageUrl = "src\img\png\glpi\image-010.png" ?>
+                    <a href="<?php echo $imageUrl ?>" target="_blank"><img src="<?php echo $imageUrl ?>" alt=""></a>
+                    
+                </div> -->
+            </div>
+
             <h4>Répondre aux incidents et aux demandes d’assistance et d’évolution</h4>
+            <!-- <img src="src\img\png\glpi\image-017.png" alt=""> -->
+            <!-- <img src="src\img\png\glpi\image-036.png" alt=""> -->
+            <!-- <img src="src\img\png\glpi\image-034.png" alt=""> -->
+            <!-- <img src="src\img\png\glpi\image-025.png" alt=""> -->
+            <p>Puis il fallait simuler une gestion d'incident, pour ça il fallait etre deux. Un utilisateur et un technicien, le premier devait crée un ticket indiquent un probleme. Puis le technicien devait le résoudre.</p>
+            <div class="subcontent">
+                <div class="commentaire">
+                    <?php $imageUrl = "src\img\png\glpi\image-017.png" ?>
+                    <a href="<?php echo $imageUrl ?>" target="_blank"><img src="<?php echo $imageUrl ?>" alt=""></a>
+                    Création d'un ticket
+                </div>
+                <div class="commentaire">
+                    <?php $imageUrl = "src\img\png\glpi\image-036.png" ?>
+                    <a href="<?php echo $imageUrl ?>" target="_blank"><img src="<?php echo $imageUrl ?>" alt=""></a>
+                    Historique des actions du technicien
+                </div>
+                <div class="commentaire">
+                    <?php $imageUrl = "src\img\png\glpi\image-034.png" ?>
+                    <a href="<?php echo $imageUrl ?>" target="_blank"><img src="<?php echo $imageUrl ?>" alt=""></a>
+                    Liste des tickets
+                </div>
+                <div class="commentaire">
+                    <?php $imageUrl = "src\img\png\glpi\image-025.png" ?>
+                    <a href="<?php echo $imageUrl ?>" target="_blank"><img src="<?php echo $imageUrl ?>" alt=""></a>
+                    Validation d'un tickets résolu
+                </div>
+            </div>
+            <a href="src\pdf\glpi\glpi-doc.pdf" target="_blank">Lien documentation</a>
         </div>
     </div>
 </div>
@@ -41,7 +107,7 @@
         <a class="close" href="#gsbOut">&times;</a>
         <div class="content">
             <div class="imgContentPop">
-                <img class="imgPop" src="src/img/png/it's_time_to_stop_0-7_screenshot.png" style="top: 0" alt="">
+                <img class="imgPop" src="src/img/png/gsb-login.png" style="top: 0" alt="">
             </div>
             <p>Lors de chaque visite chez un médecin, deux produits maximum sont présentés en détail avec des petits rappels sur les autres. Les échantillons offerts ne sont pas forcément liés à ce qui a été présenté. Le nombre d'échantillons distribués doit être enregistré pour des raisons de comptabilité et de surveillance, mais cela est considéré comme pénible car il n'y a pas de moyen de simplement cocher les produits pour lesquels des échantillons ont été donnés.</p>
             <p>Il peut arriver que l'on tombe sur un remplaçant lors d'une visite chez un médecin et cela peut nécessiter une nouvelle visite. Les praticiens notent souvent les coordonnées des remplaçants qu'ils voient sur les fiches de visite, mais ils aimeraient pouvoir conserver la personne visitée en tant que remplaçant dans le logiciel.</p>
@@ -54,6 +120,11 @@
                 <li>Suivi des remplaçants : les visiteurs souhaitent pouvoir suivre les remplaçants, même si ceux-ci ne sont pas les médecins permanents du cabinet, en conservant des informations sur les personnes visitées dans leur logiciel.</li>
                 <li>Amélioration de l'efficacité des comptes-rendus : les clients souhaitent pouvoir conserver plus facilement les informations sur les personnes visitées et les produits présentés, sans perdre de temps à saisir des informations inutiles.</li>
             </ul>
+            <!-- <h3>Réalisation</h3>
+            <p>Ce site web est mon premier site </p> -->
+            <h3>Que retenir de se travail ?</h3>
+            <p>Ce projet était notre premier site web dynamiqueet donc il y a une base de données le souci c'est que ce projet ne s'est pas très bien déroulé en effet ce que je regrette le plus c'est une mauvaise gestion du travail. En 6 semaines nous avons dû un travail assez médiocre je trouvej'ai été très déçu, c'est donc pour moi le pire projet.</p>
+            <p>Mais au moins grâce à lui j'ai pu me rendre compte de mes points forts et points faibles, et surtout les projets le suivant j'ai fait en sorte d'appliquer une méthode de travail bien plus organisée et donc de proposerdes résultats de bien meilleure qualité</p>
         </div>
     </div>
 </div>
@@ -63,7 +134,7 @@
         <a class="close" href="#crosOut">&times;</a>
         <div class="content">
             <div class="imgContentPop">
-                <img class="imgPop" src="src\img\png\crosl-site-accueil-ex-2.png" alt="">
+                <img class="imgPop" src="src\img\png\crosl-site-accueil-ex-2.png" style="top: 0" alt="">
             </div>
             <p>Le CROSL offre un catalogue de formations dans des domaines tels que la gestion, l'informatique, le développement durable, le secourisme et la communication. Les formations sont destinées aux salariés et bénévoles des associations affiliées à la maison régionale des sports de Lorraine.</p>
             <p>L'application de gestion de catalogue de formation doit être gérée par M. Xaneth et Mme Giroux, les participants ne pouvant participer qu'à un maximum de 3 formations par an. Les inscriptions aux formations peuvent se faire en ligne via un site web avec identification et contrôle du statut du participant. En fin d'année, M. Xaneth souhaite une historisation des participations pour les analyses et statistiques.</p>
@@ -83,16 +154,26 @@
             <a href="src\pdf\crosl\web\Liste_des_formations.pdf" target="_blank">Liste_des_formations.pdf</a>
             <p>À partir de ça nous avons pu donc créer la base de données comme vous pouvez le voir ci-dessous</p>
             <?php $imageUrl = "src/img/png/crosl-bdd-ex.png" ?>
-            <a href="<?php echo $imageUrl ?>" target="_blank"><img src="<?php echo $imageUrl ?>" alt=""></a>
+            <div class="subcontent">
+                <a href="<?php echo $imageUrl ?>" target="_blank"><img src="<?php echo $imageUrl ?>" alt=""></a>
+            </div>
             <p>Qui est en suite afficher sur la page web</p>
-            <div class="subcontent"><img src="src/img/png/crosl-site-accueil-ex.png" alt=""></div>
+            <!-- <div class="subcontent"><img src="src/img/png/crosl-site-accueil-ex.png" alt=""></div> -->
+            <?php $imageUrl = "src/img/png/crosl-site-accueil-ex.png" ?>
+            <div class="subcontent">
+                <a href="<?php echo $imageUrl ?>" target="_blank"><img src="<?php echo $imageUrl ?>" alt=""></a>
+            </div>
 
             <h4>Travailler en mode projet</h4>
             <p>Pour ce projet nous avons dû utiliser le logiciel tulip campus.</p>
             <div class="subcontent"><img class="logo" src="src/img/png/tlp-camp-logo.png" alt=""></div>
             <p>Tuleap Campus est une plateforme gratuite offerte par Tuleap pour aider les étudiants à acquérir des compétences en agilité d'entreprise. Elle permet de gérer des projets de manière agile avec des tableaux Kanban, des dashboards Scrum Agile et des graphiques burnup/burndown.</p>
             <p>C'est une solution open source de gestion du cycle de vie des applications d'entreprise qui facilite la mise en œuvre de Scrum à tous les niveaux d'organisation. En outre, elle offre des intégrations avec d'autres solutions logicielles telles que Jira, Jenkins et GitLab.</p>
-            <div class="subcontent"><img src="src/img/png/tlp-camp-capture-web.png" alt=""></div>
+            <!-- <div class="subcontent"><img src="src/img/png/tlp-camp-capture-web.png" alt=""></div> -->
+            <?php $imageUrl = "src/img/png/tlp-camp-capture-web.png" ?>
+            <div class="subcontent">
+                <a href="<?php echo $imageUrl ?>" target="_blank"><img src="<?php echo $imageUrl ?>" alt=""></a>
+            </div>
             <p>Grâce à ce logiciel dès le début du projet on a pu se répartir les tâches correctement et s'organiser petit à petit. Vous pouvez voir ci-dessus une capture d'écran à un instant t du projet</p>
 
             <h4>Mettre à disposition des utilisateurs un service informatique</h4>
@@ -112,7 +193,7 @@
         <a class="close" href="#androidOut">&times;</a>
         <div class="content">
             <div class="imgContentPop">
-                <img class="imgPop" src="src/img/png/assets-2.png" alt="">
+                <img class="imgPop" src="src\img\png\android-projet.png" alt="">
             </div>
             <h3><b><i>** EN COURS DE RÉALISATION **</i></b></h3>
             <p>Le Comité Régional Olympique et Sportif de Lorraine propose des formations aux bénévoles des clubs affiliés aux ligues. M. Xaneth souhaite améliorer la pertinence de ces formations en effectuant des analyses statistiques sur les participations historisées. Il a identifié plusieurs statistiques qui lui semblent importantes, telles que le nombre de participants, les pourcentages de participation, les périodes les plus propices, les domaines et formations les plus demandées, ainsi que les résultats des validations à la fin de chaque session.</p>
@@ -123,11 +204,11 @@
 </div>
 <div id="adh" class="overlay">
     <div class="popup">
-        <h2>Java gestion des adhérents</h2>
+        <h2>Gestion des adhérents de la M2L</h2>
         <a class="close" href="#adhOut">&times;</a>
         <div class="content">
             <div class="imgContentPop">
-                <img class="imgPop" src="src/img/png/assets-2.png" alt="">
+                <img class="imgPop" src="src\img\png\gestion-adh.png" alt="">
             </div>
             <p>La Maison des Ligues de Lorraine (M2L) veut développer une application de bureau pour la gestion des adhérents des clubs d'escrime de la région. L'application doit permettre la création, la modification, la suppression et la recherche d'adhérents, générer un rapport récapitulatif des adhésions, consulter un annuaire des différents clubs d'escrime. Les extensions possibles incluent la gestion des intervenants, la planification des entrainements et des compétitions, et l'achat collectif/location de matériels. Il est recommandé d'utiliser un langage orienté objet et un outil de travail collaboratif/gestion de versions. Une documentation technique sera également nécessaire.</p>
             <h3>L'objectif du travail</h3>
@@ -144,7 +225,7 @@
             <div class="imgContentPop">
                 <img class="imgPop" src="src/img/jpg/293739.jpg" alt="">
             </div>
-            <p>J'ai effectué un projet d'installation et configuration d'un serveur web sur un Raspberry pi 4 il y a plus de 6 mois. J'ai tout d'abord installé le système d'exploitation Raspbian sur la carte SD du Raspberry pi.</p>
+            <p>J'ai effectué un projet d'installation et configuration d'un serveur web sur un Raspberry pi 4 il y a plus de 7 mois. J'ai tout d'abord installé le système d'exploitation Raspbian sur la carte SD du Raspberry pi.</p>
             <p>Ensuite, j'ai configuré les paramètres réseau pour accéder à Internet et j'ai installé Apache, le serveur web le plus couramment utilisé. J'ai également installé PHP et MySQL pour permettre l'exécution de scripts PHP sur le serveur. Enfin, j'ai testé le serveur en publiant un site Web simple et j'ai vérifié que tout fonctionnait correctement en accédant à ce site à partir d'un ordinateur distant. Je suis satisfait du résultat final et je suis fier d'avoir accompli ce projet avec succès.</p>
             <p>Plus récemment ce projet fut remplacé par un autre, en effet en collaboration avec un ami, j'ai décidé d'héberger mon portfolio sur un serveur ionos</p>
             <p><a href="#ionos">Voir ici la fiche du projet</a></p>
@@ -179,6 +260,18 @@
             <p>Avec un ami nous avons choisi IONOS pour héberger notre serveur et ainsi pouvoir diffuser, a des entreprise, nos portfolios. Sans rentrer dans les détails nous avons choisi une offre de type VPS nous permettant ainsi de réaliser tout type de projet, allant de portfolio à application web, en passant par des projets plus personnel.</p>
             <h3>L'objectif du travail</h3>
             <p>Le but était de pouvoir donc d'héberger nos portfolios mais à plus long terme de d'héberger tout type de projet personnel ou en commun avec cet ami.</p>
+            <div class="subcontent">
+                <div class="commentaire">
+                    <?php $imageUrl = "src\img\png\ionos-subdomain.png" ?>
+                    <a href="<?php echo $imageUrl ?>" target="_blank"><img src="<?php echo $imageUrl ?>" alt=""></a>
+                    Sous-domaine liée au serveur
+                </div>
+                <div class="commentaire">
+                    <?php $imageUrl = "src\img\png\ionos-server.png" ?>
+                    <a href="<?php echo $imageUrl ?>" target="_blank"><img src="<?php echo $imageUrl ?>" alt=""></a>
+                    Page d'administration du serveur via IONOS
+                </div>
+            </div>
         </div>
     </div>
 </div>

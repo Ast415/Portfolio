@@ -137,11 +137,15 @@ body {
 }
 
 .timeline-container .content {
+  text-align: justify;
+  display: flex;
+  flex-direction: column;
   padding: 30px;
   background: beige;
   position: relative;
   border-radius: 20px;
   box-shadow: 0px 0px 30px rgb(0 0 0 / 60%);
+  gap: 10px;
 }
 
 /* .timeline-container.right .content {
@@ -150,7 +154,7 @@ body {
 } */
 
 .timeline-container .content h2 {
-  margin: 0 0 10px 0;
+  margin: 0;
   font-size: 18px;
   font-weight: normal;
   color: black;

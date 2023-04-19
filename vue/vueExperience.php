@@ -9,7 +9,7 @@
                             <div class="imgContent">
                                 <img class="imgCard2" src="src/img/png/GLPI_Logo-color.png" alt="">
                             </div>
-                            <h3>Gestion d'un SI avec GLPI</h3>
+                            <h3>Gestion d'un SI et de ticket avec GLPI</h3>
                             <div class="textCardContent">
                                 <p>Par groupe de deux, ce travail consistait en une étude de découverte de l'outil GLPI (Gestion Libre de Parc Informatique) en vue d'une utilisation pour la gestion du parc informatique d'un lycée.</p>
                             </div>
@@ -38,7 +38,7 @@
                             <div class="imgContent">
                                 <img class="imgCard" src="src/img/png/mdl.png" alt="">
                             </div>
-                            <h3>Java gestion des adhérents</h3>
+                            <h3>Gestion des adhérents de la M2L</h3>
                             <div class="textCardContent">
                                 <p>M2L projette une application de bureau pour gérer les adhérents des clubs d'escrime en Lorraine, permettant de créer, modifier, supprimer et rechercher des adhérents, avec un annuaire de clubs consultable.</p>
                             </div>
@@ -80,7 +80,7 @@
                             </div>
                             <h3>Créer mon propre serveur</h3>
                             <div class="textCardContent">
-                                <p>Il y a neuf mois, j'ai installé Raspbian sur un Raspberry pi 4 et configuré Apache, PHP et MySQL pour héberger un site Web simple. Récemment, j'ai migré mon portfolio sur un serveur ionos en collaboration avec un ami.</p>
+                                <p>Il y a sept mois, j'ai installé Raspbian sur un Raspberry pi 4 et configuré Apache, PHP et MySQL pour héberger un site Web simple. Récemment, j'ai migré mon portfolio sur un serveur ionos en collaboration avec un ami.</p>
                             </div>
                             <h4><a href="#rasp">En savoir +</a></h4>
                         </div>

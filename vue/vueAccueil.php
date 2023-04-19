@@ -12,25 +12,46 @@
                     <div class="myLogo profil">
                         <span>BASTIEN</span><b>BORIES</b>
                     </div>
-                    <p><?php echo date('Y')-2002; ?> ans et actuellement en deuxième année de BTS SIO (Services Informatiques aux Organisations), option SLAM (Solutions Logicielles et Applications Métiers). J'ai grandi à Castres puis déménagé à Toulouse pour poursuivre mes études.</p>
-                    <p>Depuis toujours, Je suis passionné de jeux vidéo et d'informatique, c'est pour cela que j'ai choisi de poursuivre mes études dans ce domaine. Originaire d’un BAC PRO SN j’ai choisie de me diriger vers ce BTS pour pouvoir faire ce qui me plait le plus, de la programmation. Une fois ce BTS fini, je compte faire une formation de développeur web en alternance. Mon objectif pour au moins les 10 prochaine années c’est de devenir développeur fullstack. Mais à long terme, je souhaite devenir développeur de jeux vidéo, ce qui est mon rêve d’enfance.</p>
-                    <p>Je suis motivé, travailleur et j'apprécie le travail d'équipe, car je crois que la cohésion d'équipe est importante pour la motivation et l'entraide des personnes.</p>
+                    <p><?php echo date('Y')-2002; ?> ans et actuellement en <b>deuxième année de BTS SIO</b> (Services Informatiques aux Organisations), option SLAM (Solutions Logicielles et Applications Métiers). J'ai grandi à Castres puis déménagé à Toulouse pour poursuivre mes études.</p>
+                    <p>Depuis toujours, Je suis passionné de jeux vidéo et d'informatique, c'est pour cela que j'ai choisi de poursuivre mes études dans ce domaine. Originaire d’un <b>BAC PRO SN</b> j’ai choisie de me diriger vers ce BTS pour pouvoir faire ce qui me plait le plus, de la <b>programmation</b>. Une fois ce BTS fini, je compte faire une formation de développeur web en alternance. Mon objectif pour au moins les 10 prochaine années c’est de devenir développeur fullstack.</p>
+                    <p>Je suis <b>motivé, travailleur et j'apprécie le travail d'équipe,</b> car je crois que la cohésion d'équipe est importante pour la motivation et l'entraide des personnes.</p>
                 </div>
             </div>
-            <div class="statueContent textContent">
+            <!-- <div class="statueContent textContent">
                 <h1>
                     STATU
                 </h1>
                 <p>Actuellement en fin de 2nde année de BTS SIO j'ai effectué récemment mon dernier stage datent du 9 janvier au 17 février. Aujourd'hui je me prépare pour mes examens finaux et recherche une nouvelle école pour poursuivre mes études une entreprise pour faire peu etre une alternance</p>
-            </div>
+            </div> -->
             <div id="etude" class="formationContent textContent fCWidth" >
                 <div class="btsLogoContent">
                     <!-- <img  src="src/img/png/logo-btssio.png" alt="" class="btsLogo"> -->
                     <img  src="src/svg/logo-btssio-svg.svg" alt="" class="btsLogo">
                 </div>
-                <p>Le BTS Services informatiques aux Organisations est un diplôme reconnu par l’état de niveau Bac+2. Il remplace, depuis septembre 2011, l’ancien BTS informatique de Gestion (BTS IG). En effet, cette nouvelle formule répond aux attentes de la profession en matière de qualification. Le programme a évolué en fonction de la place et du rôle des TIC (Technologies d’Information Communication) et propose deux spécialités bien distinctes : le BTS SIO SISR et le BTS SIO SLAM.</p>
-                <p>Il associe aux enseignements théoriques et professionnels (en contrôle continu et final) deux stages en entreprise (10 à 11 semaines réparties en première année et en deuxième année d’études), en formation initiale. </p>
-                <p>En plus des matières en lien avec l’ingénierie informatique, la formation diplômante propose également des enseignements de culture générale, d’anglais (avec la possibilité de continuer une LV2), de mathématiques appliquées à l’informatique, ainsi que sur les outils d’analyse économique, managériale et juridique des services informatiques. </p>        
+                <p>Le BTS Services informatiques aux Organisations est un diplôme reconnu par l’état de <b>niveau Bac+2</b>. Il remplace, depuis septembre 2011, l’ancien BTS informatique de Gestion (BTS IG). En effet, cette nouvelle formule répond aux attentes de la profession en matière de qualification. Le programme a évolué en fonction de la place et du rôle des TIC (Technologies d’Information Communication) et propose deux spécialités bien distinctes : le <b>BTS SIO SISR</b> et le <b>BTS SIO SLAM</b>.</p>
+                <p>Il associe aux enseignements théoriques et professionnels (en contrôle continu et final) <b>deux stages en entreprise</b> (10 à 11 semaines réparties en première année et en deuxième année d’études), en formation initiale. </p>
+                <p>En plus des matières en lien avec l’ingénierie informatique, la formation diplômante propose également des enseignements de culture générale, d’anglais (avec la possibilité de continuer une LV2), de mathématiques appliquées à l’informatique, ainsi que sur les outils d’analyse économique, managériale et juridique des services informatiques.</p>        
+            </div>
+            <div class="stageContent textContent">
+                <h1>
+                    STAGES
+                </h1>
+                <p>Sur mes 2 années d'étude en BTS SIO j'ai effectué 2 Stages</p>
+                <div class="lesStages">
+                    <div class="unStage first">
+                        <div class="imgContent">
+                            <img class="imgCard" src="src/img/png/apple-touch-icon.png" alt="">
+                        </div>
+                        <p>Lors de ma première année j'ai effectué un stage au centre hospitalier de Lavaur au service réseau.</p>
+                    </div>
+                    <div class="unStage last">
+                        <div class="imgContent">
+                            <img class="imgCard2" src="src/img/png/cropped-LOGO-CGX-SYSTEM-V2-BLEU-CIEL-DEFINITIF.png" alt="">
+                        </div>
+                        <p>Pendant ma deuxième année j'ai effectué un stage chez CGX System spécialisée dans l'ingénierie et les études techniques pour l'industrie des sports d'hiver</p>
+                    </div>
+                </div>
+                <b>Plus d'informations sur mes stages</b><a href="./?action=experience#stages"><div class="buttonLink">ici</div></a>
             </div>
             <div>
                 <div class="fullContactContent textContent" id="contact">
