@@ -59,6 +59,45 @@
     overflow: auto;
 }
 
+.popup .content img {
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 5px rgba(0, 0, 0, 0.253);
+    transition: filter 0.1s;
+}
+
+.popup .content .subcontent a img:hover {
+    filter: brightness(0.85);
+}
+
+.popup .content .subcontent .logo {
+    width: 400px;
+    height: auto;
+}
+
+.popup .content .subcontent .capture {
+    height: 300px;
+}
+
+.popup .content .subcontent {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+.popup .content .subcontent img {
+    height: 300px;
+}
+
+/* .popup .content .subcontent > img > a {
+    height: auto;
+} */
+
+.popup > .content > h4 {
+    font-size: medium;
+    text-decoration: underline;
+}
+
 .popup .content.map{
     height: 70vh;
 }

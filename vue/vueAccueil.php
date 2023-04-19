@@ -47,10 +47,10 @@
                                     <p>07 81 87 88 97</p>
                                 </div>
                                 <div class="contactInfo">
-                                    <a href="mailto:bastien.bories@androcode.fr">
+                                    <a href="mailto:bastienbories81pro@gmail.com">
                                         <div class="Qbert reverseBackColor"><div class="icon contact gmail"></div></div>
                                     </a>
-                                    <p>bastien.bories@androcode.fr</p>
+                                    <p>bastienbories81@gmail.com</p>
                                 </div>
                                 <div class="contactInfo">
                                     <a href="#map"><div class="Qbert reverseBackColor" id="#closeMap"><div class="icon contact map"></div></div></a>

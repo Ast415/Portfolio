@@ -105,6 +105,10 @@ h1{
     top: 30%;
 }
 
+/* .profilePhoto:hover{
+    background-image: url("../../src/img/jpg/bestPP.jpg");
+} */
+
 .statueContent, .docContent{
     display: flex;
     flex-direction: column;
@@ -463,7 +467,7 @@ footer{
     top: 0px;
 }
 
-h4{
+.Card > h4{
     text-align: right;
     border-bottom: 0.2px black solid;
     padding-bottom: 20px;

@@ -9,7 +9,7 @@
                             <div class="imgContent">
                                 <img class="imgCard2" src="src/img/png/GLPI_Logo-color.png" alt="">
                             </div>
-                            <h3>GLPI</h3>
+                            <h3>Gestion d'un SI avec GLPI</h3>
                             <div class="textCardContent">
                                 <p>Par groupe de deux, ce travail consistait en une étude de découverte de l'outil GLPI (Gestion Libre de Parc Informatique) en vue d'une utilisation pour la gestion du parc informatique d'un lycée.</p>
                             </div>
@@ -63,9 +63,9 @@
                             <div class="imgContent">
                                 <img class="imgCard" src="src/svg/android-color-svgrepo-com.svg" alt="">
                             </div>
-                            <h3>CROSL Android App</h3>
+                            <h3>CROSL Applications Android</h3>
                             <div class="textCardContent">
-                                <p>Le CROSL offre des formations en gestion, informatique, communication, etc aux associations affiliées. M. Xaneth et Mme Giroux son on charge de gèrent la gestion du catalogue de l'application.</p>
+                                <p>Le CROSL offre des formations aux bénévoles des clubs affiliés. Une solution a été choisie pour répondre à la demande de M. Xaneth, qui souhaite des analyses statistiques sur les participants, faire une application Android.</p>
                             </div>
                             <h4><a href="#android">En savoir +</a></h4>
                         </div>
@@ -74,15 +74,15 @@
                 <div class="aProjetContent pcContentPerso">
                     <h2>Projet personnel</h2>
                     <div class="cardContent">
-                        <div class="Card shadowStyle1" id="#serveurOut">
+                        <div class="Card shadowStyle1" id="#raspOut">
                             <div class="imgContent">
                                 <img class="imgCard" src="src/img/png/raspLogo.png" alt="">
                             </div>
-                            <h3>Serveur Web</h3>
+                            <h3>Créer mon propre serveur</h3>
                             <div class="textCardContent">
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id autem ea similique quisquam eos quod, sequi perspiciatis rerum dicta culpa eveniet aliquid sit rem nulla magnam quo, optio voluptatem recusandae.</p>
+                                <p>Il y a neuf mois, j'ai installé Raspbian sur un Raspberry pi 4 et configuré Apache, PHP et MySQL pour héberger un site Web simple. Récemment, j'ai migré mon portfolio sur un serveur ionos en collaboration avec un ami.</p>
                             </div>
-                            <h4><a href="#serveur">En savoir +</a></h4>
+                            <h4><a href="#rasp">En savoir +</a></h4>
                         </div>
                         <div class="Card shadowStyle1" id="#portfolioOut">
                             <div class="imgContent">
@@ -90,7 +90,7 @@
                             </div>
                             <h3>CV / Portfolio Web</h3>
                             <div class="textCardContent">
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id autem ea similique quisquam eos quod, sequi perspiciatis rerum dicta culpa eveniet aliquid sit rem nulla magnam quo, optio voluptatem recusandae.</p>
+                                <p>Le portfolio est un site web personnel qui met en avant les compétences et réalisations professionnelles du candidat pour l'épreuve E4. Il sert également de support pour communiquer avec de potentiels employeurs.</p>
                             </div>
                             <h4><a href="#portfolio">En savoir +</a></h4>
                             <ul><li>Organiser son développement professionnel</li></ul>
@@ -99,9 +99,9 @@
                             <div class="imgContent">
                                 <img class="imgCard" src="src/svg/ionos-svgrepo-com.svg" alt="">
                             </div>
-                            <h3>IONOS</h3>
+                            <h3>Hébergé chez IONOS</h3>
                             <div class="textCardContent">
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id autem ea similique quisquam eos quod, sequi perspiciatis rerum dicta culpa eveniet aliquid sit rem nulla magnam quo, optio voluptatem recusandae.</p>
+                                <p>Cette entreprise offre des services d'hébergement web et solutions cloud. Avec un ami on les a choisi pour héberger notre serveur, permettant de faire des projets personnels / commun, comme des portfolios.</p>
                             </div>
                             <h4><a href="#ionos">En savoir +</a></h4>
                             <ul><li>Organiser son développement professionnel</li></ul>
@@ -169,7 +169,7 @@
                                 <h4><a href="#cgx">En savoir +</a></h4>
                                 <ul>
                                     <li>Répondre aux incidents et aux demandes d’assistance et d’évolution</li>
-                                    <li>Mettre à disposition des utilisateurs un service informatique</li>
+                                    <li>Développer la présence en ligne de l’organisation</li>
                                 </ul>
                             </div>
                         </div>
@@ -195,27 +195,32 @@
                                     <img class="" src="src/svg/css-3-svgrepo-com.svg" alt="">
                                 </div>
                             </div>
-                            <div class="Card outils shadowStyle1">
+                            <div class="Card outils shadowStyle1 box" id="PHP" onmousemove="setTooltip(event)">
+                                <div class="tooltip"></div>
                                 <div class="imgContent outilsIcon">
                                     <img class="" src="src/svg/php2-svgrepo-com.svg" alt="">
                                 </div>
                             </div>
-                            <div class="Card outils shadowStyle1">
+                            <div class="Card outils shadowStyle1 box" id="JavaScript" onmousemove="setTooltip(event)">
+                                <div class="tooltip"></div>
                                 <div class="imgContent outilsIcon">
                                     <img class="" src="src/svg/javascript-svgrepo-com.svg" alt="">
                                 </div>
                             </div>
-                            <div class="Card outils shadowStyle1">
+                            <div class="Card outils shadowStyle1 box" id="TypeScript" onmousemove="setTooltip(event)">
+                                <div class="tooltip"></div>
                                 <div class="imgContent outilsIcon">
                                     <img class="" src="src/svg/typescript-svgrepo-com.svg" alt="">
                                 </div>
                             </div>
-                            <div class="Card outils shadowStyle1">
+                            <div class="Card outils shadowStyle1 box" id="Java" onmousemove="setTooltip(event)">
+                                <div class="tooltip"></div>
                                 <div class="imgContent outilsIcon">
                                     <img class="" src="src/svg/java-svgrepo-com.svg" alt="">
                                 </div>
                             </div>
-                            <div class="Card outils shadowStyle1">
+                            <div class="Card outils shadowStyle1 box" id="C#" onmousemove="setTooltip(event)">
+                                <div class="tooltip"></div>
                                 <div class="imgContent outilsIcon">
                                     <img class="" src="src/svg/csharp-svgrepo-com.svg" alt="">
                                 </div>
@@ -225,17 +230,20 @@
                     <div>
                         <h2>Framework</h2>
                         <div class="cardContent">
-                            <div class="Card outils shadowStyle1">
+                            <div class="Card outils shadowStyle1 box" id="Tailwind" onmousemove="setTooltip(event)">
+                                <div class="tooltip"></div>
                                 <div class="imgContent outilsIcon">
                                     <img class="" src="src/svg/tailwind-svgrepo-com.svg" alt="">
                                 </div>
                             </div>
-                            <div class="Card outils shadowStyle1">
+                            <div class="Card outils shadowStyle1 box" id="Symfony" onmousemove="setTooltip(event)">
+                                <div class="tooltip"></div>
                                 <div class="imgContent outilsIcon">
                                     <img class="" src="src/svg/symfony-svgrepo-com.svg" alt="">
                                 </div>
                             </div>
-                            <div class="Card outils shadowStyle1">
+                            <div class="Card outils shadowStyle1 box" id="Angular" onmousemove="setTooltip(event)">
+                                <div class="tooltip"></div>
                                 <div class="imgContent outilsIcon">
                                     <img class="" src="src/svg/angular-icon-svgrepo-com.svg" alt="">
                                 </div>
@@ -245,22 +253,26 @@
                     <div>
                         <h2>IDE</h2>
                         <div class="cardContent">
-                            <div class="Card outils shadowStyle1">
+                            <div class="Card outils shadowStyle1 box" id="Visual Studio Code" onmousemove="setTooltip(event)">
+                                <div class="tooltip"></div>
                                 <div class="imgContent outilsIcon">
                                     <img class="" src="src/svg/visual-studio-code-svgrepo-com.svg" alt="">
                                 </div>
                             </div>
-                            <div class="Card outils shadowStyle1">
+                            <div class="Card outils shadowStyle1 box" id="Visual Studio" onmousemove="setTooltip(event)">
+                                <div class="tooltip"></div>
                                 <div class="imgContent outilsIcon">
                                     <img class="" src="src/svg/visual-studio-svgrepo-com.svg" alt="">
                                 </div>
                             </div>
-                            <div class="Card outils shadowStyle1">
+                            <div class="Card outils shadowStyle1 box" id="Eclipse" onmousemove="setTooltip(event)">
+                                <div class="tooltip"></div>
                                 <div class="imgContent outilsIcon">
                                     <img class="" src="src/svg/eclipse-icon-svgrepo-com.svg" alt="">
                                 </div>
                             </div>
-                            <div class="Card outils shadowStyle1">
+                            <div class="Card outils shadowStyle1 box" id="Android Studio" onmousemove="setTooltip(event)">
+                                <div class="tooltip"></div>
                                 <div class="imgContent outilsIcon">
                                     <img class="" src="src/svg/Android_Studio_Icon_3.6.svg" alt="">
                                 </div>
@@ -270,22 +282,26 @@
                     <div>
                         <h2>Autre</h2>
                         <div class="cardContent">
-                            <div class="Card outils shadowStyle1">
+                            <div class="Card outils shadowStyle1 box" id="Git" onmousemove="setTooltip(event)">
+                                <div class="tooltip"></div>
                                 <div class="imgContent outilsIcon">
                                     <img class="" src="src/svg/git-svgrepo-com.svg" alt="">
                                 </div>
                             </div>
-                            <div class="Card outils shadowStyle1">
+                            <div class="Card outils shadowStyle1 box" id="PhpMyAdmin" onmousemove="setTooltip(event)">
+                                <div class="tooltip"></div>
                                 <div class="imgContent outilsIcon">
                                     <img class="" src="src/svg/phpmyadmin-svgrepo-com.svg" alt="">
                                 </div>
                             </div>
-                            <div class="Card outils shadowStyle1">
+                            <div class="Card outils shadowStyle1 box" id="MariaDB" onmousemove="setTooltip(event)">
+                                <div class="tooltip"></div>
                                 <div class="imgContent outilsIcon">
                                     <img class="" src="src/svg/mariadb-svgrepo-com.svg" alt="">
                                 </div>
                             </div>
-                            <div class="Card outils shadowStyle1">
+                            <div class="Card outils shadowStyle1 box" id="Debian" onmousemove="setTooltip(event)">
+                                <div class="tooltip"></div>
                                 <div class="imgContent outilsIcon">
                                     <img class="" src="src/svg/debian-svgrepo-com.svg" alt="">
                                 </div>
