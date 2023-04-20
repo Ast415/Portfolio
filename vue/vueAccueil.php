@@ -13,7 +13,7 @@
                         <span>BASTIEN</span><b>BORIES</b>
                     </div>
                     <p><?php echo date('Y')-2002; ?> ans et actuellement en <b>deuxième année de BTS SIO</b> (Services Informatiques aux Organisations), option SLAM (Solutions Logicielles et Applications Métiers). J'ai grandi à Castres puis déménagé à Toulouse pour poursuivre mes études.</p>
-                    <p>Depuis toujours, Je suis passionné de jeux vidéo et d'informatique, c'est pour cela que j'ai choisi de poursuivre mes études dans ce domaine. Originaire d’un <b>BAC PRO SN</b> j’ai choisie de me diriger vers ce BTS pour pouvoir faire ce qui me plait le plus, de la <b>programmation</b>. Une fois ce BTS fini, je compte faire une formation de développeur web en alternance. Mon objectif pour au moins les 10 prochaine années c’est de devenir développeur fullstack.</p>
+                    <p>Depuis toujours, Je suis passionné de jeux vidéo et d'informatique, c'est pour cela que j'ai choisi de poursuivre mes études dans ce domaine. Originaire d’un BAC PRO SN, j’ai choisi de me diriger vers ce BTS pour pouvoir faire ce qui me plait le plus, de la programmation. Une fois ce BTS fini, je compte faire une formation de développeur web en alternance. Mon objectif pour au moins les 10 prochaines années, c'est de devenir développeur fullstack.</p>
                     <p>Je suis <b>motivé, travailleur et j'apprécie le travail d'équipe,</b> car je crois que la cohésion d'équipe est importante pour la motivation et l'entraide des personnes.</p>
                 </div>
             </div>
@@ -58,7 +58,7 @@
                     <h1 >CONTACT</h1>
                     <div class="contactContent">
                         <div class="contactContantText">
-                            <h2>N'hésitez pas, contactez moi !</h2>
+                            <h2>N'hésitez pas, contactez-moi !</h2>
                             <p>Vous recherchez quelqu'un de dévoué, travailleur et passionné, je suis la personne qu'il vous faut ! Avec mes compétences et mon expérience, je suis prêt à relever tous les défis que vous pourriez me proposer, j'ai à cœur de travailler avec vous pour atteindre nos objectifs communs. Je suis impatient de discuter avec vous de la manière dont je peux contribuer à votre entreprise.</p>
                             <div class="contactContentInfo">
                                 <div class="contactInfo">

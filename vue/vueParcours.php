@@ -16,7 +16,7 @@
         <div class="content">
           <h2>Ma seconde générale</h2>
           <p>
-            Après avoir passé une secounde générale, que j'ai trouvée ennuyeuse, j'ai comprisqu'il fallait que je me redirige vers une autre section. Une section qui apprenne des choses plus concrètes et qui parle d'informatique.
+            Après avoir passé une seconde générale, que j'ai trouvée ennuyeuse, j'ai compris qu'il fallait que je me redirige vers une autre section. Une section qui apprenne des choses plus concrètes et qui parle d'informatique.
           </p>
         </div>
       </div>
@@ -46,7 +46,7 @@
         <div class="content">
           <h2>Direction Toulouse pour le BTS SIO</h2>
           <p>
-            Depuis le début de ma formation bac pro système numérique j'ai toujours souhaiter devenir développeur. C'est pour cela que j'ai choisi le BTS SIO, En plus d'être la continuité de ma précédente formation elle propose aussi des cours en développement.
+            Depuis le début de ma formation bac pro système numérique, j'ai toujours souhaité devenir développeur. C'est pour cela que j'ai choisi le BTS SIO. En plus d'être la continuité de ma précédente formation, elle propose aussi des cours en développement.
           </p>
         </div>
       </div>
@@ -66,7 +66,7 @@
         <div class="content">
           <h2>À l'avenir ...</h2>
           <p>
-            Après mon BTS SIO je ne souhaite pas m'arrêter là, je compte continuer mes études. Très probablement, je vais m'orienter vers la licence pro RTAI à l'université Toulouse Capitole, Pourquoi cette formation ? Tout simplement car elle propose très majoritairement des cours de développement web ce qui m'intéresse le plus actuellement !
+            Après mon BTS SIO, je ne souhaite pas m'arrêter là, je compte continuer mes études. Très probablement, je vais m'orienter vers la licence pro RTAI à l'université Toulouse Capitole, Pourquoi cette formation ? Tout simplement, car elle propose très majoritairement des cours de développement web, ce qui m'intéresse le plus actuellement !
           </p>
         </div>
       </div>

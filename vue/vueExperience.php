@@ -50,7 +50,7 @@
                             </div>
                             <h3>Gestion des Formations du CROSL</h3>
                             <div class="textCardContent">
-                                <p>Le CROSL offre des formations en gestion, informatique, communication, etc aux associations affiliées. M. Xaneth et Mme Giroux son on charge de gèrent la gestion du catalogue de l'application.</p>
+                                <p>Le CROSL offre des formations en gestion, informatique, communication, etc aux associations affiliées. M. Xaneth et Mme Giroux son en charge de gérer la gestion du catalogue de l'application.</p>
                             </div>
                             <h4><a href="#cros">En savoir +</a></h4>
                             <ul>
@@ -80,7 +80,7 @@
                             </div>
                             <h3>Créer mon propre serveur</h3>
                             <div class="textCardContent">
-                                <p>Il y a sept mois, j'ai installé Raspbian sur un Raspberry pi 4 et configuré Apache, PHP et MySQL pour héberger un site Web simple. Récemment, j'ai migré mon portfolio sur un serveur ionos en collaboration avec un ami.</p>
+                                <p>Il y a sept mois, j'ai installé Raspbian sur un Raspberry pi 4 et configuré Apache, PHP et MySQL pour héberger un site Web simple. Récemment, j'ai migré mon portfolio sur un serveur IONOS en collaboration avec un ami.</p>
                             </div>
                             <h4><a href="#rasp">En savoir +</a></h4>
                         </div>
@@ -101,7 +101,7 @@
                             </div>
                             <h3>Hébergé chez IONOS</h3>
                             <div class="textCardContent">
-                                <p>Cette entreprise offre des services d'hébergement web et solutions cloud. Avec un ami on les a choisi pour héberger notre serveur, permettant de faire des projets personnels / commun, comme des portfolios.</p>
+                                <p>Cette entreprise offre des services d'hébergement web et solutions cloud. Avec un ami, on les a choisis pour héberger notre serveur, permettant de faire des projets personnels / commun, comme des portfolios.</p>
                             </div>
                             <h4><a href="#ionos">En savoir +</a></h4>
                             <ul><li>Organiser son développement professionnel</li></ul>
