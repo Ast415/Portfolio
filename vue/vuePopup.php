@@ -136,7 +136,7 @@
             <div class="imgContentPop">
                 <img class="imgPop" src="src\img\png\crosl-site-accueil-ex-2.png" style="top: 0" alt="">
             </div>
-            <p>Le CROSL offre un catalogue de formations dans des domaines tels que la gestion, l'informatique, le développement durable, le secourisme et la communication. Les formations sont destinées aux salariés et bénévoles des associations affiliées à la maison régionale des sports de Lorraine.</p>
+            <p>Le Comité Régional olympique et Sportif de Lorraine (CROSL) offre un catalogue de formations dans des domaines tels que la gestion, l'informatique, le développement durable, le secourisme et la communication. Les formations sont destinées aux salariés et bénévoles des associations affiliées à la maison régionale des sports de Lorraine.</p>
             <p>L'application de gestion de catalogue de formation doit être gérée par M. Xaneth et Mme Giroux, les participants ne pouvant participer qu'à un maximum de 3 formations par an. Les inscriptions aux formations peuvent se faire en ligne via un site web avec identification et contrôle du statut du participant. En fin d'année, M. Xaneth souhaite une historisation des participations pour les analyses et statistiques.</p>
             <p>L'application doit être développée avec une solution informatique sécurisée et doit inclure des fonctionnalités telles que la gestion du catalogue, les inscriptions en ligne et la documentation technique. Les développeurs doivent prendre en compte le modèle MVC, la gestion des versions et le planning prévisionnel.</p>
 
